@@ -1,0 +1,48 @@
+spring:
+  application:
+    name: rag-regulation
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5433/rag}
+    username: ${DB_USER:rag}
+    password: ${DB_PASSWORD:rag}
+  sql:
+    init:
+      mode: always
+  ai:
+    embedding:
+      transformer:
+        onnx:
+          model-uri: https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/onnx/model.onnx
+          model-output-name: last_hidden_state
+        tokenizer:
+          uri: https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer.json
+          options:
+            maxLength: "512"
+            truncation: "true"
+        cache:
+          directory: ${rag.models-dir}/embedding
+
+rag:
+  corpus-dir: ${CORPUS_DIR:../corpus}
+  eval-dir: ${EVAL_DIR:../eval}
+  models-dir: ${MODELS_DIR:${user.home}/.cache/rag-regulation/models}
+  anthropic-api-key: ${ANTHROPIC_API_KEY:}
+  answer-model: ${ANSWER_MODEL:claude-opus-5-5}
+  judge-model: ${JUDGE_MODEL:claude-opus-5-5}
+  # Passages handed to the model as sources.
+  top-k: 5
+  # Candidates taken from each retriever before fusion, and from the fused list into the reranker.
+  candidates: 30
+  rrf-k: 60
+  max-chunk-chars: 1200
+  reranker:
+    model-url: https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1/resolve/main/onnx/model.onnx
+    tokenizer-url: https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1/resolve/main/tokenizer.json
+    max-length: 512
+
+server:
+  port: 8080
+
+logging:
+  level:
+    ai.djl: WARN
