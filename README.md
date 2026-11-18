@@ -79,7 +79,7 @@ docker compose run --rm app ingest
 
 Then open http://localhost:8080.
 
-The first `ingest` downloads the embedding model (about 470 MB) into a Docker volume, parses the ten files and embeds every chunk on the CPU, which takes around ten minutes on a laptop. The first question in `hybrid_rerank` mode downloads the reranker model (about 470 MB). Both are cached afterwards, and an interrupted download is resumed.
+The first `ingest` downloads the embedding model (about 470 MB) into a Docker volume, parses the ten files and embeds every chunk on the CPU, which takes around ten minutes on a laptop. The first question in `hybrid_rerank` mode downloads the reranker model (about 470 MB). The first run also fetches about 300 MB of native libraries for the tokenizer library into the same volume. Everything is cached afterwards, and an interrupted model download is resumed. On the development machine the first ingestion in Docker took 29 minutes on a slow connection, most of it downloading; embedding alone took about 11 minutes when run outside Docker.
 
 `.env` is ignored by git. The key is only read from the environment.
 
@@ -150,6 +150,8 @@ Measured on 2026-11-18 on the corpus above (4,771 passages), 60 answerable quest
 | Hybrid + cross-encoder rerank | 98.3% | 0.947 | 100.0% | 96.7% |
 
 In absolute terms that is 57, 58 and 59 of 60 questions with a gold article in the top 5. The per-question ranks are in `eval/results/retrieval.json`.
+
+Repeatability: the corpus was later ingested again inside the Docker container and the retrieval evaluation rerun there (`docker compose run --rm app eval --retrieval-only`). Hybrid (58 of 60, MRR 0.849) and hybrid with reranking (59 of 60, MRR 0.947) came out the same; vector only found 56 of 60 instead of 57 (MRR 0.849 instead of 0.866). The cause of that one-question shift was not isolated. The vector index is approximate and is rebuilt on every ingestion, and the embeddings were computed on a different platform, so either can move a borderline passage across rank 5. The tables in this section are from the first run, which is also the run the answers were generated from.
 
 How to read this:
 
