@@ -1,6 +1,7 @@
 # syntax=docker/dockerfile:1
 
-FROM node:20-alpine AS frontend
+# Debian based on purpose: the bundler fails on Alpine (musl) on ARM with "nested too deeply".
+FROM node:20-slim AS frontend
 WORKDIR /frontend
 COPY frontend/package.json frontend/package-lock.json ./
 RUN npm ci --no-audit --no-fund
