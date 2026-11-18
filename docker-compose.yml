@@ -1,0 +1,43 @@
+services:
+  db:
+    image: pgvector/pgvector:pg17
+    environment:
+      POSTGRES_DB: rag
+      POSTGRES_USER: rag
+      POSTGRES_PASSWORD: rag
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U rag -d rag"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_URL: jdbc:postgresql://db:5432/rag
+      DB_USER: rag
+      DB_PASSWORD: rag
+      CORPUS_DIR: /data/corpus
+      EVAL_DIR: /data/eval
+      MODELS_DIR: /models
+      # Read from the shell or from a local .env file. Never commit the key.
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      ANSWER_MODEL: ${ANSWER_MODEL:-claude-opus-5-5}
+      JUDGE_MODEL: ${JUDGE_MODEL:-claude-opus-5-5}
+    ports:
+      - "127.0.0.1:8080:8080"
+    volumes:
+      - ./corpus:/data/corpus:ro
+      - ./eval:/data/eval
+      - models:/models
+
+volumes:
+  pgdata:
+  models:

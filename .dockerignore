@@ -1,0 +1,8 @@
+.git
+.env
+corpus
+eval
+**/node_modules
+**/dist
+**/target
+backend/src/main/resources/static
