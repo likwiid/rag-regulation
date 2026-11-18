@@ -81,7 +81,7 @@ public class ApiController {
 
         String generation = "disabled";
         String message = "Answer generation is off because no ANTHROPIC_API_KEY is configured. "
-                + "The retrieved passages are shown below.";
+                + "The retrieved passages are still shown.";
         String text = null;
         boolean refused = false;
         List<Integer> cited = List.of();

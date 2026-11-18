@@ -10,6 +10,8 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.nio.channels.FileChannel;
+import java.nio.channels.FileLock;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
@@ -19,7 +21,8 @@ import java.time.Duration;
 /**
  * Downloads a model file once and keeps it in the models directory. Model files are several hundred
  * megabytes, so an interrupted download is resumed with a range request instead of started again,
- * and the file only gets its final name once the full length has arrived.
+ * and the file only gets its final name once the full length has arrived. A lock file keeps two
+ * processes (the server and an evaluation run, say) from appending to the same partial file.
  */
 public final class ModelFiles {
 
@@ -34,6 +37,17 @@ public final class ModelFiles {
             return target;
         }
         Files.createDirectories(target.getParent());
+        Path lockFile = target.resolveSibling(target.getFileName() + ".lock");
+        try (FileChannel channel = FileChannel.open(lockFile, StandardOpenOption.CREATE, StandardOpenOption.WRITE);
+             FileLock ignored = channel.lock()) {
+            if (!Files.exists(target)) {
+                download(url, target);
+            }
+        }
+        return target;
+    }
+
+    private static void download(String url, Path target) throws IOException, InterruptedException {
         Path partial = target.resolveSibling(target.getFileName() + ".part");
         HttpClient client = HttpClient.newBuilder()
                 .followRedirects(HttpClient.Redirect.NORMAL)
@@ -45,7 +59,7 @@ public final class ModelFiles {
             try {
                 if (fetch(client, url, partial)) {
                     Files.move(partial, target, StandardCopyOption.ATOMIC_MOVE);
-                    return target;
+                    return;
                 }
             } catch (IOException e) {
                 last = e;
