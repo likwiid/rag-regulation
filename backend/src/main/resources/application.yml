@@ -12,15 +12,15 @@ spring:
     embedding:
       transformer:
         onnx:
-          model-uri: https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/onnx/model.onnx
+          model-uri: file:${rag.models-dir}/embedding/model.onnx
           model-output-name: last_hidden_state
         tokenizer:
-          uri: https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer.json
+          uri: file:${rag.models-dir}/embedding/tokenizer.json
           options:
             maxLength: "512"
             truncation: "true"
         cache:
-          directory: ${rag.models-dir}/embedding
+          enabled: false
 
 rag:
   corpus-dir: ${CORPUS_DIR:../corpus}
@@ -35,6 +35,10 @@ rag:
   candidates: 30
   rrf-k: 60
   max-chunk-chars: 1200
+  # Fetched into models-dir on first start, then loaded from disk.
+  embedding:
+    model-url: https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/onnx/model.onnx
+    tokenizer-url: https://huggingface.co/intfloat/multilingual-e5-small/resolve/main/tokenizer.json
   reranker:
     model-url: https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1/resolve/main/onnx/model.onnx
     tokenizer-url: https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1/resolve/main/tokenizer.json
