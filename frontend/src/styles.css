@@ -1,0 +1,291 @@
+:root {
+  --ink: #1b2430;
+  --muted: #5d6b7a;
+  --line: #d9dfe6;
+  --paper: #f6f7f9;
+  --card: #ffffff;
+  --accent: #1f4e8c;
+  --accent-soft: #e6eef9;
+  --warn: #8a5a00;
+  --warn-soft: #fff4d6;
+  --error: #9b1c1c;
+  --error-soft: #fde8e8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+
+h1 {
+  margin: 0 0 6px;
+  font-size: 28px;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin: 0 0 12px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.subtitle {
+  margin: 0 0 24px;
+  max-width: 760px;
+  color: var(--muted);
+}
+
+.ask {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 16px;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+  font: inherit;
+  color: inherit;
+}
+
+textarea:focus,
+select:focus,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 16px;
+  margin-top: 12px;
+}
+
+.controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+select {
+  font: inherit;
+  padding: 7px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+.primary {
+  margin-left: auto;
+  padding: 9px 26px;
+  border: 0;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+.primary:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.examples {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.example {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--muted);
+  padding: 5px 12px;
+  font-size: 13px;
+  text-align: left;
+}
+
+.example:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.notice {
+  margin: 16px 0 0;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--warn-soft);
+  color: var(--warn);
+  font-size: 14px;
+}
+
+.answer .notice {
+  margin: 0 0 12px;
+}
+
+.notice-error {
+  background: var(--error-soft);
+  color: var(--error);
+}
+
+.result {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+  align-items: start;
+}
+
+@media (max-width: 860px) {
+  .result {
+    grid-template-columns: 1fr;
+  }
+}
+
+.answer,
+.sources {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 18px;
+}
+
+.answer {
+  position: sticky;
+  top: 16px;
+}
+
+@media (max-width: 860px) {
+  .answer {
+    position: static;
+  }
+}
+
+.answer-text {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.refused-label {
+  margin: 0 0 8px;
+  font-weight: 600;
+  color: var(--warn);
+}
+
+.cite {
+  display: inline;
+  margin: 0 2px;
+  padding: 1px 7px;
+  border: 1px solid #b9cdea;
+  border-radius: 6px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cite:hover,
+.cite-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.meta {
+  margin: 14px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.source {
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--line);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.source + .source {
+  margin-top: 12px;
+}
+
+.source-active {
+  border-color: var(--accent);
+  border-left-color: var(--accent);
+  background: #fafcff;
+}
+
+.source-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.source-citation {
+  font-weight: 700;
+}
+
+.badge {
+  padding: 0 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.source-title {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.source-text {
+  margin: 8px 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 15px;
+  white-space: pre-wrap;
+}
+
+.source a {
+  font-size: 13px;
+  color: var(--accent);
+}
+
+footer {
+  margin-top: 28px;
+  font-size: 12px;
+  color: var(--muted);
+}
