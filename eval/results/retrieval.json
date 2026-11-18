@@ -1,0 +1,8281 @@
+[ {
+  "id" : "gdpr-en-01",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 33(1)",
+    "chunkId" : 2186,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(2)",
+    "chunkId" : 2187,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(5)",
+    "chunkId" : 2190,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 34(4)",
+    "chunkId" : 2194,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 56(3)",
+    "chunkId" : 2314,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 33(4)",
+    "chunkId" : 2189,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(3)",
+    "chunkId" : 2188,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 36(2)",
+    "chunkId" : 2207,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 60(7)",
+    "chunkId" : 2339,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 60(10)",
+    "chunkId" : 2342,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 33(1)",
+    "chunkId" : 2186,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(2)",
+    "chunkId" : 2187,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(5)",
+    "chunkId" : 2190,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 34(4)",
+    "chunkId" : 2194,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 33(3)",
+    "chunkId" : 2188,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(4)",
+    "chunkId" : 2189,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 4",
+    "chunkId" : 2072,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 58(1)",
+    "chunkId" : 2325,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 58(2)",
+    "chunkId" : 2326,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 60(10)",
+    "chunkId" : 2342,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 33(1)",
+    "chunkId" : 2186,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(2)",
+    "chunkId" : 2187,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(5)",
+    "chunkId" : 2190,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(3)",
+    "chunkId" : 2188,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 56(3)",
+    "chunkId" : 2314,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 12(4)",
+    "chunkId" : 2103,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 36(2)",
+    "chunkId" : 2207,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 33(4)",
+    "chunkId" : 2189,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 58(2)",
+    "chunkId" : 2326,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 56(2)",
+    "chunkId" : 3220,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-02",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 8(1)",
+    "chunkId" : 2087,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 8(2)",
+    "chunkId" : 2088,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 6(1)",
+    "chunkId" : 2077,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 7(4)",
+    "chunkId" : 2086,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 10",
+    "chunkId" : 2097,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 7(1)",
+    "chunkId" : 2083,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 8(3)",
+    "chunkId" : 2089,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 59(1)",
+    "chunkId" : 3921,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 56(1)",
+    "chunkId" : 3219,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 86",
+    "chunkId" : 2448,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 8(1)",
+    "chunkId" : 2087,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 8(2)",
+    "chunkId" : 2088,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 6(1)",
+    "chunkId" : 2077,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 7(4)",
+    "chunkId" : 2086,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 8(3)",
+    "chunkId" : 2089,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 7(1)",
+    "chunkId" : 2083,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 13(2)",
+    "chunkId" : 2109,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 7(3)",
+    "chunkId" : 2085,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 14(2)",
+    "chunkId" : 2114,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 6(4)",
+    "chunkId" : 2081,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 8(1)",
+    "chunkId" : 2087,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 6(1)",
+    "chunkId" : 2077,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 7(1)",
+    "chunkId" : 2083,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 8(2)",
+    "chunkId" : 2088,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 8(3)",
+    "chunkId" : 2089,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 7(4)",
+    "chunkId" : 2086,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 18(2)",
+    "chunkId" : 2129,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 9(2)",
+    "chunkId" : 2091,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 7(3)",
+    "chunkId" : 2085,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 20(1)",
+    "chunkId" : 2132,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-03",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 37(2)",
+    "chunkId" : 2212,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(5)",
+    "chunkId" : 2215,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(6)",
+    "chunkId" : 2216,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 38(1)",
+    "chunkId" : 2218,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 38(5)",
+    "chunkId" : 2222,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 39(2)",
+    "chunkId" : 2225,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 37(4)",
+    "chunkId" : 2214,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(1)",
+    "chunkId" : 2211,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 39(1)",
+    "chunkId" : 2224,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 37(3)",
+    "chunkId" : 2213,
+    "gold" : true
+  } ]
+}, {
+  "id" : "gdpr-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 37(2)",
+    "chunkId" : 2212,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 38(1)",
+    "chunkId" : 2218,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 37(5)",
+    "chunkId" : 2215,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(4)",
+    "chunkId" : 2214,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(3)",
+    "chunkId" : 2213,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(6)",
+    "chunkId" : 2216,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 38(5)",
+    "chunkId" : 2222,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 37(7)",
+    "chunkId" : 2217,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 38(4)",
+    "chunkId" : 2221,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 39(2)",
+    "chunkId" : 2225,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 37(1)",
+    "chunkId" : 2211,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(4)",
+    "chunkId" : 2214,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(2)",
+    "chunkId" : 2212,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(3)",
+    "chunkId" : 2213,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 37(5)",
+    "chunkId" : 2215,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 39(1)",
+    "chunkId" : 2224,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 37(6)",
+    "chunkId" : 2216,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 38(5)",
+    "chunkId" : 2222,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 37(7)",
+    "chunkId" : 2217,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 64(1)",
+    "chunkId" : 2362,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-04",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 83(5)",
+    "chunkId" : 2438,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 5(1)",
+    "chunkId" : 2075,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 5(1)",
+    "chunkId" : 2074,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(4)",
+    "chunkId" : 2437,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2434,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2435,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 70(1)",
+    "chunkId" : 2391,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(3)",
+    "chunkId" : 2436,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 9(2)",
+    "chunkId" : 2094,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(6)",
+    "chunkId" : 2439,
+    "gold" : true
+  } ]
+}, {
+  "id" : "gdpr-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 83(5)",
+    "chunkId" : 2438,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2434,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 83(3)",
+    "chunkId" : 2436,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 5(1)",
+    "chunkId" : 2075,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2435,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 5(1)",
+    "chunkId" : 2074,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(1)",
+    "chunkId" : 4128,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(1)",
+    "chunkId" : 4127,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 99(7)",
+    "chunkId" : 4121,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 5(2)",
+    "chunkId" : 2076,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 83(5)",
+    "chunkId" : 2438,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 5(1)",
+    "chunkId" : 2074,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 5(1)",
+    "chunkId" : 2075,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2435,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 83(4)",
+    "chunkId" : 2437,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 85(2)",
+    "chunkId" : 2446,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 9(1)",
+    "chunkId" : 2090,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(3)",
+    "chunkId" : 2436,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 100(1)",
+    "chunkId" : 4128,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(1)",
+    "chunkId" : 4135,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-05",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 0,
+  "top" : [ {
+    "citation" : "AI Act, Article 91(5)",
+    "chunkId" : 4088,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 50(2)",
+    "chunkId" : 3854,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 92(5)",
+    "chunkId" : 4093,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 25(2)",
+    "chunkId" : 3720,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 91(1)",
+    "chunkId" : 4084,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 25(4)",
+    "chunkId" : 3722,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 71(4)",
+    "chunkId" : 3992,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 91(3)",
+    "chunkId" : 4086,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 89(2)",
+    "chunkId" : 4080,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 91(2)",
+    "chunkId" : 4085,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 5,
+  "top" : [ {
+    "citation" : "AI Act, Article 50(2)",
+    "chunkId" : 3854,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 71(4)",
+    "chunkId" : 3992,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 47(1)",
+    "chunkId" : 3838,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 89(2)",
+    "chunkId" : 4080,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 20(1)",
+    "chunkId" : 2132,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 91(5)",
+    "chunkId" : 4088,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 12(7)",
+    "chunkId" : 2106,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 48(2)",
+    "chunkId" : 3844,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 92(5)",
+    "chunkId" : 4093,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 25(2)",
+    "chunkId" : 3720,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 20(1)",
+    "chunkId" : 2132,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 20(2)",
+    "chunkId" : 2133,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(2)",
+    "chunkId" : 3854,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 71(4)",
+    "chunkId" : 3992,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 92(5)",
+    "chunkId" : 4093,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 91(5)",
+    "chunkId" : 4088,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 47(1)",
+    "chunkId" : 3838,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 91(2)",
+    "chunkId" : 4085,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 12(7)",
+    "chunkId" : 2106,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 91(3)",
+    "chunkId" : 4086,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-06",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 28(6)",
+    "chunkId" : 2170,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(4)",
+    "chunkId" : 2168,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(1)",
+    "chunkId" : 2163,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(2)",
+    "chunkId" : 2164,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 79(2)",
+    "chunkId" : 2421,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 27(4)",
+    "chunkId" : 2161,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 28(10)",
+    "chunkId" : 2174,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 27(5)",
+    "chunkId" : 2162,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 28(3)",
+    "chunkId" : 2165,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 82(3)",
+    "chunkId" : 2429,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 28(6)",
+    "chunkId" : 2170,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(4)",
+    "chunkId" : 2168,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(3)",
+    "chunkId" : 2165,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(2)",
+    "chunkId" : 2164,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 27(5)",
+    "chunkId" : 2162,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 79(2)",
+    "chunkId" : 2421,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 27(4)",
+    "chunkId" : 2161,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 29",
+    "chunkId" : 2175,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 82(4)",
+    "chunkId" : 2430,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 27(1)",
+    "chunkId" : 2158,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "GDPR, Article 28(3)",
+    "chunkId" : 2165,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(6)",
+    "chunkId" : 2170,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(4)",
+    "chunkId" : 2168,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 32(4)",
+    "chunkId" : 2185,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 58(1)",
+    "chunkId" : 2325,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 28(2)",
+    "chunkId" : 2164,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 28(1)",
+    "chunkId" : 2163,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 60(10)",
+    "chunkId" : 2342,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 31",
+    "chunkId" : 2181,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 30(2)",
+    "chunkId" : 2177,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-01",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 6 Absatz 1",
+    "chunkId" : 2505,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 1",
+    "chunkId" : 2506,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 1",
+    "chunkId" : 2561,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 10",
+    "chunkId" : 2527,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 8 Absatz 1",
+    "chunkId" : 2517,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 2",
+    "chunkId" : 2562,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 5 Absatz 1",
+    "chunkId" : 2502,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 3",
+    "chunkId" : 2509,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 85 Absatz 1",
+    "chunkId" : 2882,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 20 Absatz 2",
+    "chunkId" : 2566,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 6 Absatz 1",
+    "chunkId" : 2505,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 1",
+    "chunkId" : 2506,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 1",
+    "chunkId" : 2561,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 5 Absatz 1",
+    "chunkId" : 2502,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 3",
+    "chunkId" : 2509,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 8 Absatz 1",
+    "chunkId" : 2517,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 9 Absatz 2",
+    "chunkId" : 2522,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 9 Absatz 1",
+    "chunkId" : 2520,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 1 Absatz 3",
+    "chunkId" : 2483,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 17 Absatz 1",
+    "chunkId" : 2557,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 6 Absatz 1",
+    "chunkId" : 2505,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 3",
+    "chunkId" : 2509,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 5 Absatz 1",
+    "chunkId" : 2502,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 1",
+    "chunkId" : 2506,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 4",
+    "chunkId" : 2511,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 9 Absatz 2",
+    "chunkId" : 2522,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 1",
+    "chunkId" : 2561,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 8 Absatz 1",
+    "chunkId" : 2517,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 4",
+    "chunkId" : 2512,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 6 Absatz 2",
+    "chunkId" : 2507,
+    "gold" : true
+  } ]
+}, {
+  "id" : "gdpr-de-02",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 35 Absatz 3",
+    "chunkId" : 2631,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 2",
+    "chunkId" : 2630,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 11",
+    "chunkId" : 2639,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 4",
+    "chunkId" : 2632,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 1",
+    "chunkId" : 2629,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 8",
+    "chunkId" : 2636,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 5",
+    "chunkId" : 2633,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 10",
+    "chunkId" : 2638,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 4",
+    "chunkId" : 4341,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 7",
+    "chunkId" : 2635,
+    "gold" : true
+  } ]
+}, {
+  "id" : "gdpr-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 35 Absatz 11",
+    "chunkId" : 2639,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 2",
+    "chunkId" : 2630,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 8",
+    "chunkId" : 2636,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 4",
+    "chunkId" : 2632,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 3",
+    "chunkId" : 2631,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 4",
+    "chunkId" : 4341,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 5",
+    "chunkId" : 2633,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 10",
+    "chunkId" : 2638,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 1",
+    "chunkId" : 2629,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 9",
+    "chunkId" : 2637,
+    "gold" : true
+  } ]
+}, {
+  "id" : "gdpr-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 35 Absatz 10",
+    "chunkId" : 2638,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 11",
+    "chunkId" : 2639,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 3",
+    "chunkId" : 2631,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 1",
+    "chunkId" : 2629,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 6",
+    "chunkId" : 2634,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 4",
+    "chunkId" : 2632,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 7",
+    "chunkId" : 2635,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 9",
+    "chunkId" : 2637,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 2",
+    "chunkId" : 2630,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 8",
+    "chunkId" : 2636,
+    "gold" : true
+  } ]
+}, {
+  "id" : "gdpr-de-03",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 12 Absatz 3",
+    "chunkId" : 2532,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 4",
+    "chunkId" : 2533,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 2",
+    "chunkId" : 2531,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 3",
+    "chunkId" : 2554,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 5",
+    "chunkId" : 2534,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 14 Absatz 3",
+    "chunkId" : 2547,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 6",
+    "chunkId" : 2535,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 231 Absatz 2",
+    "chunkId" : 1829,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 237 Absatz 5",
+    "chunkId" : 1850,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 79 Absatz 2",
+    "chunkId" : 2858,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 12 Absatz 3",
+    "chunkId" : 2532,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 4",
+    "chunkId" : 2533,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 3",
+    "chunkId" : 2554,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 14 Absatz 3",
+    "chunkId" : 2547,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 237 Absatz 5",
+    "chunkId" : 1850,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 2",
+    "chunkId" : 2531,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 5",
+    "chunkId" : 2534,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 6",
+    "chunkId" : 2535,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 36 Absatz 2",
+    "chunkId" : 2641,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 237 Absatz 2",
+    "chunkId" : 1847,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 12 Absatz 3",
+    "chunkId" : 2532,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 12 Absatz 4",
+    "chunkId" : 2533,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 14 Absatz 3",
+    "chunkId" : 2547,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 231 Absatz 3",
+    "chunkId" : 1830,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 60 Absatz 6",
+    "chunkId" : 2775,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 64 Absatz 8",
+    "chunkId" : 2806,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 237 Absatz 5",
+    "chunkId" : 1850,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 247 Absatz 4",
+    "chunkId" : 1887,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 231 Absatz 6",
+    "chunkId" : 1833,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 231 Absatz 2",
+    "chunkId" : 1829,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-04",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 17 Absatz 1",
+    "chunkId" : 2557,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 1",
+    "chunkId" : 2561,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 17 Absatz 2",
+    "chunkId" : 2559,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 3",
+    "chunkId" : 2554,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 1",
+    "chunkId" : 2551,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 21 Absatz 6",
+    "chunkId" : 2574,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 34 Absatz 4",
+    "chunkId" : 2628,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 20 Absatz 1",
+    "chunkId" : 2565,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 34 Absatz 1",
+    "chunkId" : 2625,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 3",
+    "chunkId" : 2563,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 17 Absatz 1",
+    "chunkId" : 2557,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 1",
+    "chunkId" : 2561,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 3",
+    "chunkId" : 2554,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 34 Absatz 4",
+    "chunkId" : 2628,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 1",
+    "chunkId" : 2551,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 16",
+    "chunkId" : 2556,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 34 Absatz 1",
+    "chunkId" : 2625,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 17 Absatz 2",
+    "chunkId" : 2559,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 77 Absatz 1",
+    "chunkId" : 2851,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 13 Absatz 1",
+    "chunkId" : 2538,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 17 Absatz 1",
+    "chunkId" : 2557,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 18 Absatz 1",
+    "chunkId" : 2561,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 17 Absatz 2",
+    "chunkId" : 2559,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 1",
+    "chunkId" : 2551,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 16",
+    "chunkId" : 2556,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 21 Absatz 6",
+    "chunkId" : 2574,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 21 Absatz 1",
+    "chunkId" : 2569,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 5",
+    "chunkId" : 4251,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 34 Absatz 4",
+    "chunkId" : 2628,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 59 Absatz 1",
+    "chunkId" : 4521,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-05",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 5,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 45 Absatz 1",
+    "chunkId" : 2696,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 7",
+    "chunkId" : 2703,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 8",
+    "chunkId" : 2704,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 3",
+    "chunkId" : 2699,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 49 Absatz 5",
+    "chunkId" : 2726,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 46 Absatz 1",
+    "chunkId" : 2706,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 5",
+    "chunkId" : 2701,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 13 Absatz 1",
+    "chunkId" : 2539,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 2",
+    "chunkId" : 2698,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 6",
+    "chunkId" : 2702,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 3,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 45 Absatz 1",
+    "chunkId" : 2696,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 7",
+    "chunkId" : 2703,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 49 Absatz 5",
+    "chunkId" : 2726,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 13 Absatz 1",
+    "chunkId" : 2539,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 46 Absatz 1",
+    "chunkId" : 2706,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 2",
+    "chunkId" : 2697,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 49 Absatz 1",
+    "chunkId" : 2720,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 8",
+    "chunkId" : 2704,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 2",
+    "chunkId" : 2698,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 15 Absatz 2",
+    "chunkId" : 2553,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 45 Absatz 1",
+    "chunkId" : 2696,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 49 Absatz 5",
+    "chunkId" : 2726,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 46 Absatz 1",
+    "chunkId" : 2706,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 49 Absatz 1",
+    "chunkId" : 2720,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 7",
+    "chunkId" : 2703,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 13 Absatz 1",
+    "chunkId" : 2539,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 5",
+    "chunkId" : 2701,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 14 Absatz 1",
+    "chunkId" : 2544,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 48",
+    "chunkId" : 2719,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 45 Absatz 4",
+    "chunkId" : 2700,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-06",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 30 Absatz 4",
+    "chunkId" : 2613,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 3",
+    "chunkId" : 2612,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 5",
+    "chunkId" : 2614,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 2",
+    "chunkId" : 2611,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 1",
+    "chunkId" : 2610,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 1",
+    "chunkId" : 2609,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 5",
+    "chunkId" : 4252,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 42 Absatz 6",
+    "chunkId" : 2683,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 35 Absatz 2",
+    "chunkId" : 4380,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 33 Absatz 3",
+    "chunkId" : 4374,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 30 Absatz 4",
+    "chunkId" : 2613,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 3",
+    "chunkId" : 2612,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 1",
+    "chunkId" : 2609,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 2",
+    "chunkId" : 2611,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 5",
+    "chunkId" : 2614,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 1",
+    "chunkId" : 2610,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 5",
+    "chunkId" : 4252,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 35 Absatz 2",
+    "chunkId" : 4380,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 33 Absatz 3",
+    "chunkId" : 4374,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 24 Absatz 2",
+    "chunkId" : 2583,
+    "gold" : false
+  } ]
+}, {
+  "id" : "gdpr-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DSGVO, Artikel 30 Absatz 1",
+    "chunkId" : 2609,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 2",
+    "chunkId" : 2611,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 1",
+    "chunkId" : 2610,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 5",
+    "chunkId" : 4252,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 4",
+    "chunkId" : 2613,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 3",
+    "chunkId" : 2612,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 30 Absatz 5",
+    "chunkId" : 2614,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 5",
+    "chunkId" : 2633,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 6",
+    "chunkId" : 2634,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 4",
+    "chunkId" : 2632,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-01",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 48,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(4)",
+    "chunkId" : 53,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(1)",
+    "chunkId" : 47,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(5)",
+    "chunkId" : 54,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 49,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 50,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 17(1)",
+    "chunkId" : 74,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 17(3)",
+    "chunkId" : 76,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(4)",
+    "chunkId" : 89,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 48,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(1)",
+    "chunkId" : 47,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 49,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(4)",
+    "chunkId" : 53,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 17(1)",
+    "chunkId" : 74,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 10(5)",
+    "chunkId" : 54,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 17(3)",
+    "chunkId" : 76,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 22(1)",
+    "chunkId" : 96,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 303",
+    "chunkId" : 1181,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 48,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(1)",
+    "chunkId" : 47,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 17(1)",
+    "chunkId" : 74,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 49,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 13(2)",
+    "chunkId" : 67,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 22(1)",
+    "chunkId" : 96,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 10(3)",
+    "chunkId" : 51,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(2)",
+    "chunkId" : 50,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 33(1)",
+    "chunkId" : 2186,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 1(3)",
+    "chunkId" : 3,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-02",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "IDD, Article 18",
+    "chunkId" : 77,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 19(4)",
+    "chunkId" : 84,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 19(2)",
+    "chunkId" : 82,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 140,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 136,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 19(1)",
+    "chunkId" : 81,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 3(6)",
+    "chunkId" : 23,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 18",
+    "chunkId" : 78,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(3)",
+    "chunkId" : 88,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 9,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 19(4)",
+    "chunkId" : 84,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 18",
+    "chunkId" : 77,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 19(1)",
+    "chunkId" : 81,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 17(3)",
+    "chunkId" : 76,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 140,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 19(2)",
+    "chunkId" : 82,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 141,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 9,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 10(6)",
+    "chunkId" : 55,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(4)",
+    "chunkId" : 139,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 19(2)",
+    "chunkId" : 82,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 19(4)",
+    "chunkId" : 84,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(2)",
+    "chunkId" : 129,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 19(1)",
+    "chunkId" : 79,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 10(6)",
+    "chunkId" : 55,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(3)",
+    "chunkId" : 88,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 140,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 18",
+    "chunkId" : 77,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(4)",
+    "chunkId" : 132,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 135,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-03",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 20(8)",
+    "chunkId" : 93,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 20(7)",
+    "chunkId" : 92,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(6)",
+    "chunkId" : 91,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 23(7)",
+    "chunkId" : 107,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(9)",
+    "chunkId" : 94,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 128,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 127,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(1)",
+    "chunkId" : 86,
+    "gold" : true
+  } ]
+}, {
+  "id" : "idd-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 20(7)",
+    "chunkId" : 92,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 20(8)",
+    "chunkId" : 93,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 20(6)",
+    "chunkId" : 91,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 23(7)",
+    "chunkId" : 107,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(5)",
+    "chunkId" : 90,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 126,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(9)",
+    "chunkId" : 94,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(1)",
+    "chunkId" : 86,
+    "gold" : true
+  } ]
+}, {
+  "id" : "idd-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 20(8)",
+    "chunkId" : 93,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 20(7)",
+    "chunkId" : 92,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 20(6)",
+    "chunkId" : 91,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 23(7)",
+    "chunkId" : 107,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 126,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 127,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 128,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(5)",
+    "chunkId" : 90,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 20(9)",
+    "chunkId" : 94,
+    "gold" : true
+  } ]
+}, {
+  "id" : "idd-en-04",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 1(5)",
+    "chunkId" : 5,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 135,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(9)",
+    "chunkId" : 94,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 11,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(3)",
+    "chunkId" : 130,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(6)",
+    "chunkId" : 142,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 17(3)",
+    "chunkId" : 76,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 1(5)",
+    "chunkId" : 5,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(6)",
+    "chunkId" : 91,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 17(3)",
+    "chunkId" : 76,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(3)",
+    "chunkId" : 130,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 11,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 135,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(6)",
+    "chunkId" : 142,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 116,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 17(3)",
+    "chunkId" : 76,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 24(1)",
+    "chunkId" : 108,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 25(4)",
+    "chunkId" : 119,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(3)",
+    "chunkId" : 130,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 127,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 1(5)",
+    "chunkId" : 5,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 20(1)",
+    "chunkId" : 86,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-05",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 140,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(7)",
+    "chunkId" : 143,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(6)",
+    "chunkId" : 142,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(8)",
+    "chunkId" : 144,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 135,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(3)",
+    "chunkId" : 138,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 126,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 25(1)",
+    "chunkId" : 115,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 127,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(6)",
+    "chunkId" : 142,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 140,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(7)",
+    "chunkId" : 143,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 126,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(8)",
+    "chunkId" : 144,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(3)",
+    "chunkId" : 138,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(3)",
+    "chunkId" : 137,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 127,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 135,
+    "gold" : true
+  } ]
+}, {
+  "id" : "idd-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(7)",
+    "chunkId" : 143,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(6)",
+    "chunkId" : 142,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 141,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(5)",
+    "chunkId" : 140,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(3)",
+    "chunkId" : 138,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 29(1)",
+    "chunkId" : 126,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(8)",
+    "chunkId" : 144,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(3)",
+    "chunkId" : 137,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(2)",
+    "chunkId" : 135,
+    "gold" : true
+  } ]
+}, {
+  "id" : "idd-en-06",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 0,
+  "top" : [ {
+    "citation" : "AI Act, Article 100(1)",
+    "chunkId" : 4127,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2434,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(3)",
+    "chunkId" : 2436,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 99(7)",
+    "chunkId" : 4121,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 27",
+    "chunkId" : 121,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(6)",
+    "chunkId" : 2439,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(2)",
+    "chunkId" : 2435,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(3)",
+    "chunkId" : 4130,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(4)",
+    "chunkId" : 2437,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(5)",
+    "chunkId" : 2438,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "IDD, Article 27",
+    "chunkId" : 121,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 33(1)",
+    "chunkId" : 155,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 99(9)",
+    "chunkId" : 4124,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 33(2)",
+    "chunkId" : 158,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 50(4)",
+    "chunkId" : 3201,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 33(2)",
+    "chunkId" : 157,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 8,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 11,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(9)",
+    "chunkId" : 2442,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(1)",
+    "chunkId" : 4127,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Article 33(2)",
+    "chunkId" : 157,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 33(1)",
+    "chunkId" : 155,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 33(2)",
+    "chunkId" : 158,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 50(4)",
+    "chunkId" : 3201,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 99(3)",
+    "chunkId" : 4117,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(6)",
+    "chunkId" : 2439,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 27",
+    "chunkId" : 121,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(4)",
+    "chunkId" : 2437,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(3)",
+    "chunkId" : 138,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 83(5)",
+    "chunkId" : 2438,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-01",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 5,
+  "top" : [ {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 207,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 208,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 16",
+    "chunkId" : 267,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 21",
+    "chunkId" : 290,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 3",
+    "chunkId" : 193,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 2 Absatz 1",
+    "chunkId" : 199,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 8 Absatz 2",
+    "chunkId" : 233,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 4",
+    "chunkId" : 194,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 5 Absatz 1",
+    "chunkId" : 220,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 2",
+    "chunkId" : 210,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 207,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 4",
+    "chunkId" : 194,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 16",
+    "chunkId" : 267,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 208,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 21",
+    "chunkId" : 290,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 5 Absatz 1",
+    "chunkId" : 220,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 2",
+    "chunkId" : 210,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 3",
+    "chunkId" : 193,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 2 Absatz 1",
+    "chunkId" : 200,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 8 Absatz 2",
+    "chunkId" : 233,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 1 Absatz 4",
+    "chunkId" : 194,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 207,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 3",
+    "chunkId" : 193,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 2 Absatz 3",
+    "chunkId" : 3253,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 2 Absatz 1",
+    "chunkId" : 199,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 5 Absatz 1",
+    "chunkId" : 220,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 2 Absatz 1",
+    "chunkId" : 3250,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 8 Absatz 2",
+    "chunkId" : 233,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 3",
+    "chunkId" : 3267,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 2 Absatz 1",
+    "chunkId" : 200,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-02",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 3 Absatz 2",
+    "chunkId" : 210,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 6",
+    "chunkId" : 215,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 208,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 207,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 4 Absatz 2",
+    "chunkId" : 218,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 4 Absatz 1",
+    "chunkId" : 217,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 4",
+    "chunkId" : 213,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 6 Absatz 4",
+    "chunkId" : 229,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 208,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 2",
+    "chunkId" : 210,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 6",
+    "chunkId" : 215,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 207,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 4",
+    "chunkId" : 213,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 209,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 4 Absatz 1",
+    "chunkId" : 217,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 29 Absatz 3",
+    "chunkId" : 326,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 4",
+    "chunkId" : 194,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 207,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 208,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 2",
+    "chunkId" : 210,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 6",
+    "chunkId" : 215,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 1",
+    "chunkId" : 209,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 4 Absatz 1",
+    "chunkId" : 217,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 4 Absatz 2",
+    "chunkId" : 218,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 29 Absatz 3",
+    "chunkId" : 326,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 3 Absatz 4",
+    "chunkId" : 213,
+    "gold" : true
+  } ]
+}, {
+  "id" : "idd-de-03",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 24 Absatz 3",
+    "chunkId" : 305,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 1",
+    "chunkId" : 303,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 7",
+    "chunkId" : 309,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 4",
+    "chunkId" : 283,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 1",
+    "chunkId" : 329,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 199",
+    "chunkId" : 1746,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 2",
+    "chunkId" : 304,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 3",
+    "chunkId" : 193,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 2",
+    "chunkId" : 330,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 7",
+    "chunkId" : 286,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 24 Absatz 1",
+    "chunkId" : 303,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 3",
+    "chunkId" : 305,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 4",
+    "chunkId" : 283,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 2",
+    "chunkId" : 304,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 7",
+    "chunkId" : 309,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 2",
+    "chunkId" : 330,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 1",
+    "chunkId" : 329,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 29 Absatz 3",
+    "chunkId" : 326,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 7",
+    "chunkId" : 286,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 3",
+    "chunkId" : 193,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 24 Absatz 1",
+    "chunkId" : 303,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 3",
+    "chunkId" : 305,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 7",
+    "chunkId" : 309,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 5",
+    "chunkId" : 195,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 2",
+    "chunkId" : 330,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 24 Absatz 6",
+    "chunkId" : 308,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 7",
+    "chunkId" : 287,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 4",
+    "chunkId" : 283,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 1",
+    "chunkId" : 329,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 3",
+    "chunkId" : 193,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-04",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 7",
+    "chunkId" : 302,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 19 Absatz 1",
+    "chunkId" : 273,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 3",
+    "chunkId" : 282,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 5",
+    "chunkId" : 300,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 21",
+    "chunkId" : 290,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 4",
+    "chunkId" : 334,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 1",
+    "chunkId" : 280,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 22 Absatz 1",
+    "chunkId" : 291,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 5",
+    "chunkId" : 300,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 7",
+    "chunkId" : 302,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 21",
+    "chunkId" : 290,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 5",
+    "chunkId" : 336,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 4",
+    "chunkId" : 334,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 22 Absatz 1",
+    "chunkId" : 291,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 5",
+    "chunkId" : 335,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 1",
+    "chunkId" : 296,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 7",
+    "chunkId" : 302,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 5",
+    "chunkId" : 335,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 19 Absatz 1",
+    "chunkId" : 273,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 4",
+    "chunkId" : 283,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 1",
+    "chunkId" : 280,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 1 Absatz 4",
+    "chunkId" : 194,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 5",
+    "chunkId" : 336,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 5",
+    "chunkId" : 300,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-05",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 23 Absatz 5",
+    "chunkId" : 300,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 3",
+    "chunkId" : 298,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 2",
+    "chunkId" : 297,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 4",
+    "chunkId" : 299,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 1",
+    "chunkId" : 296,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 7",
+    "chunkId" : 302,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 6",
+    "chunkId" : 301,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 22 Absatz 1",
+    "chunkId" : 291,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 64 Absatz 4",
+    "chunkId" : 2802,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 23 Absatz 3",
+    "chunkId" : 298,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 5",
+    "chunkId" : 300,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 2",
+    "chunkId" : 297,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 7",
+    "chunkId" : 302,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 4",
+    "chunkId" : 299,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 1",
+    "chunkId" : 296,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 6",
+    "chunkId" : 301,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 22 Absatz 1",
+    "chunkId" : 291,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 29 Absatz 1",
+    "chunkId" : 323,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 23 Absatz 2",
+    "chunkId" : 297,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 1",
+    "chunkId" : 296,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 3",
+    "chunkId" : 298,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 6",
+    "chunkId" : 301,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 5",
+    "chunkId" : 300,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 4",
+    "chunkId" : 299,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 23 Absatz 7",
+    "chunkId" : 302,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 22 Absatz 1",
+    "chunkId" : 291,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-06",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 15 Absatz 1",
+    "chunkId" : 265,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 14",
+    "chunkId" : 264,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 4",
+    "chunkId" : 334,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 25 Absatz 1",
+    "chunkId" : 310,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 27",
+    "chunkId" : 316,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 25 Absatz 1",
+    "chunkId" : 311,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 148 Absatz 3",
+    "chunkId" : 1627,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 5",
+    "chunkId" : 336,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 15 Absatz 1",
+    "chunkId" : 265,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 17 Absatz 3",
+    "chunkId" : 270,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 15 Absatz 2",
+    "chunkId" : 266,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 20 Absatz 1",
+    "chunkId" : 280,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 14",
+    "chunkId" : 264,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 3",
+    "chunkId" : 333,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 29 Absatz 3",
+    "chunkId" : 326,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 198 Absatz 1",
+    "chunkId" : 1743,
+    "gold" : false
+  } ]
+}, {
+  "id" : "idd-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "IDD, Artikel 15 Absatz 1",
+    "chunkId" : 265,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 14",
+    "chunkId" : 264,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 272,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 18",
+    "chunkId" : 271,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 40 Absatz 2",
+    "chunkId" : 2662,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 203",
+    "chunkId" : 1755,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 15 Absatz 2",
+    "chunkId" : 266,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 3",
+    "chunkId" : 333,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 2",
+    "chunkId" : 331,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 17 Absatz 2",
+    "chunkId" : 269,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-01",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "Solvency II, Article 304(1)",
+    "chunkId" : 1194,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 101(3)",
+    "chunkId" : 670,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 104(4)",
+    "chunkId" : 679,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 122(3)",
+    "chunkId" : 733,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(3)",
+    "chunkId" : 767,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(4)",
+    "chunkId" : 768,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 102(1)",
+    "chunkId" : 673,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 219(2)",
+    "chunkId" : 961,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 230(2)",
+    "chunkId" : 988,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 102(2)",
+    "chunkId" : 674,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 3,
+  "top" : [ {
+    "citation" : "Solvency II, Article 304(1)",
+    "chunkId" : 1194,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 104(4)",
+    "chunkId" : 679,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 101(3)",
+    "chunkId" : 670,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 122(3)",
+    "chunkId" : 733,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(4)",
+    "chunkId" : 768,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 122(1)",
+    "chunkId" : 731,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(3)",
+    "chunkId" : 767,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 122(2)",
+    "chunkId" : 732,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 216(4)",
+    "chunkId" : 948,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 104(3)",
+    "chunkId" : 678,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 3,
+  "top" : [ {
+    "citation" : "Solvency II, Article 104(4)",
+    "chunkId" : 679,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 304(1)",
+    "chunkId" : 1194,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 101(3)",
+    "chunkId" : 670,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 230(2)",
+    "chunkId" : 988,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 122(3)",
+    "chunkId" : 733,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 122(1)",
+    "chunkId" : 731,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(1)",
+    "chunkId" : 741,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 238(2)",
+    "chunkId" : 1013,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 219(2)",
+    "chunkId" : 961,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 122(2)",
+    "chunkId" : 732,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-02",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 129(1)",
+    "chunkId" : 742,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 18(3)",
+    "chunkId" : 441,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 18(4)",
+    "chunkId" : 442,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 74(2)",
+    "chunkId" : 612,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 74(3)",
+    "chunkId" : 613,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(4)",
+    "chunkId" : 745,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 166(2)",
+    "chunkId" : 841,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(3)",
+    "chunkId" : 744,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 129(5)",
+    "chunkId" : 746,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 139(1)",
+    "chunkId" : 770,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "Solvency II, Article 18(3)",
+    "chunkId" : 441,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(1)",
+    "chunkId" : 742,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 18(4)",
+    "chunkId" : 442,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 166(2)",
+    "chunkId" : 841,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 74(3)",
+    "chunkId" : 613,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 74(2)",
+    "chunkId" : 612,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(4)",
+    "chunkId" : 745,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 166(3)",
+    "chunkId" : 842,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(5)",
+    "chunkId" : 746,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 166(1)",
+    "chunkId" : 840,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 129(1)",
+    "chunkId" : 742,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 18(3)",
+    "chunkId" : 441,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 18(4)",
+    "chunkId" : 442,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 166(2)",
+    "chunkId" : 841,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 23(1)",
+    "chunkId" : 450,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 166(3)",
+    "chunkId" : 842,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 18(1)",
+    "chunkId" : 438,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 129(3)",
+    "chunkId" : 744,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 74(3)",
+    "chunkId" : 613,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 162(2)",
+    "chunkId" : 826,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-03",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 45(4)",
+    "chunkId" : 531,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(1)",
+    "chunkId" : 528,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(2)",
+    "chunkId" : 529,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(3)",
+    "chunkId" : 530,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(7)",
+    "chunkId" : 534,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(5)",
+    "chunkId" : 532,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(6)",
+    "chunkId" : 533,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 246(4)",
+    "chunkId" : 1039,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 36(2)",
+    "chunkId" : 490,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 120",
+    "chunkId" : 721,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 45(4)",
+    "chunkId" : 531,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(1)",
+    "chunkId" : 528,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(7)",
+    "chunkId" : 534,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(3)",
+    "chunkId" : 530,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(2)",
+    "chunkId" : 529,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(6)",
+    "chunkId" : 533,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(5)",
+    "chunkId" : 532,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 111(1)",
+    "chunkId" : 701,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 120",
+    "chunkId" : 721,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 246(4)",
+    "chunkId" : 1039,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 45(1)",
+    "chunkId" : 528,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(4)",
+    "chunkId" : 531,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(7)",
+    "chunkId" : 534,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(2)",
+    "chunkId" : 529,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(3)",
+    "chunkId" : 530,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 246(4)",
+    "chunkId" : 1039,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 45(5)",
+    "chunkId" : 532,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 45(6)",
+    "chunkId" : 533,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 36(2)",
+    "chunkId" : 490,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 101(4)",
+    "chunkId" : 671,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-04",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 132(1)",
+    "chunkId" : 749,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(2)",
+    "chunkId" : 751,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(4)",
+    "chunkId" : 754,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(2)",
+    "chunkId" : 750,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(3)",
+    "chunkId" : 753,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 2(1)",
+    "chunkId" : 11,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 132(3)",
+    "chunkId" : 752,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 42(1)",
+    "chunkId" : 516,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 10(3)",
+    "chunkId" : 51,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 132(1)",
+    "chunkId" : 749,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(2)",
+    "chunkId" : 751,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(3)",
+    "chunkId" : 753,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(4)",
+    "chunkId" : 754,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(2)",
+    "chunkId" : 750,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 42(1)",
+    "chunkId" : 516,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 132(3)",
+    "chunkId" : 752,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 133(1)",
+    "chunkId" : 755,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 133(2)",
+    "chunkId" : 756,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 132(1)",
+    "chunkId" : 749,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(2)",
+    "chunkId" : 751,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(2)",
+    "chunkId" : 750,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(4)",
+    "chunkId" : 754,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(3)",
+    "chunkId" : 752,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 132(3)",
+    "chunkId" : 753,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 42(1)",
+    "chunkId" : 516,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 133(2)",
+    "chunkId" : 756,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 30(1)",
+    "chunkId" : 134,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 133(1)",
+    "chunkId" : 755,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-05",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 138(3)",
+    "chunkId" : 767,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 138(1)",
+    "chunkId" : 765,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 138(2)",
+    "chunkId" : 766,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 139(2)",
+    "chunkId" : 771,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(4)",
+    "chunkId" : 768,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 139(1)",
+    "chunkId" : 770,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 239(1)",
+    "chunkId" : 1017,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 118(2)",
+    "chunkId" : 719,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 102(1)",
+    "chunkId" : 673,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 101(3)",
+    "chunkId" : 670,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 138(1)",
+    "chunkId" : 765,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 138(3)",
+    "chunkId" : 767,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 139(2)",
+    "chunkId" : 771,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 139(1)",
+    "chunkId" : 770,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(2)",
+    "chunkId" : 766,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 138(4)",
+    "chunkId" : 768,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 239(1)",
+    "chunkId" : 1017,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 218(5)",
+    "chunkId" : 959,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 118(2)",
+    "chunkId" : 719,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 239(3)",
+    "chunkId" : 1019,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 138(1)",
+    "chunkId" : 765,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 138(3)",
+    "chunkId" : 767,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 138(2)",
+    "chunkId" : 766,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 139(2)",
+    "chunkId" : 771,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 239(1)",
+    "chunkId" : 1017,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 139(1)",
+    "chunkId" : 770,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 138(4)",
+    "chunkId" : 768,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 218(5)",
+    "chunkId" : 959,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 239(3)",
+    "chunkId" : 1019,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 54(1)",
+    "chunkId" : 561,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-06",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 48(2)",
+    "chunkId" : 541,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 48(1)",
+    "chunkId" : 540,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 73(3)",
+    "chunkId" : 608,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 82",
+    "chunkId" : 634,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 73(4)",
+    "chunkId" : 609,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 73(2)",
+    "chunkId" : 607,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 86",
+    "chunkId" : 638,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 83",
+    "chunkId" : 635,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 73(1)",
+    "chunkId" : 606,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 18(3)",
+    "chunkId" : 441,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 48(2)",
+    "chunkId" : 541,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 48(1)",
+    "chunkId" : 540,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 83",
+    "chunkId" : 635,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 68(2)",
+    "chunkId" : 593,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 44(5)",
+    "chunkId" : 527,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 121(2)",
+    "chunkId" : 723,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 13",
+    "chunkId" : 423,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 73(3)",
+    "chunkId" : 608,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 82",
+    "chunkId" : 634,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 14(3)",
+    "chunkId" : 3005,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvency II, Article 48(1)",
+    "chunkId" : 540,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 48(2)",
+    "chunkId" : 541,
+    "gold" : true
+  }, {
+    "citation" : "Solvency II, Article 2(3)",
+    "chunkId" : 392,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 44(5)",
+    "chunkId" : 527,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 72(1)",
+    "chunkId" : 603,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 123",
+    "chunkId" : 735,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 13",
+    "chunkId" : 423,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 73(1)",
+    "chunkId" : 606,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 82",
+    "chunkId" : 634,
+    "gold" : false
+  }, {
+    "citation" : "Solvency II, Article 73(4)",
+    "chunkId" : 609,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-01",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 1",
+    "chunkId" : 1454,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 3",
+    "chunkId" : 1456,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 79",
+    "chunkId" : 1460,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 192",
+    "chunkId" : 1737,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 2",
+    "chunkId" : 1450,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 4",
+    "chunkId" : 1457,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 3",
+    "chunkId" : 1451,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 2",
+    "chunkId" : 1455,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 165",
+    "chunkId" : 1675,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 84",
+    "chunkId" : 1465,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 1",
+    "chunkId" : 1454,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 3",
+    "chunkId" : 1456,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 2",
+    "chunkId" : 1450,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 4",
+    "chunkId" : 1457,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 4",
+    "chunkId" : 1452,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 108",
+    "chunkId" : 1530,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 192",
+    "chunkId" : 1737,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 79",
+    "chunkId" : 1460,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 3",
+    "chunkId" : 1451,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 85",
+    "chunkId" : 1466,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 1",
+    "chunkId" : 1454,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 3",
+    "chunkId" : 1456,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 4",
+    "chunkId" : 1457,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 2",
+    "chunkId" : 1455,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 77 Absatz 5",
+    "chunkId" : 1458,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 2",
+    "chunkId" : 1450,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 79",
+    "chunkId" : 1460,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 3",
+    "chunkId" : 1451,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 76 Absatz 4",
+    "chunkId" : 1452,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 192",
+    "chunkId" : 1737,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-02",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 3,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 38 Absatz 1",
+    "chunkId" : 1328,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 8",
+    "chunkId" : 251,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 49 Absatz 1",
+    "chunkId" : 1369,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 49 Absatz 3",
+    "chunkId" : 1371,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 136",
+    "chunkId" : 1597,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 44 Absatz 4",
+    "chunkId" : 1352,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 3",
+    "chunkId" : 333,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 41 Absatz 3",
+    "chunkId" : 1339,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 41 Absatz 4",
+    "chunkId" : 1340,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 163 Absatz 3",
+    "chunkId" : 1668,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 38 Absatz 1",
+    "chunkId" : 1328,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 49 Absatz 3",
+    "chunkId" : 1371,
+    "gold" : true
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 8",
+    "chunkId" : 251,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 276 Absatz 2",
+    "chunkId" : 1966,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 29 Absatz 4",
+    "chunkId" : 1290,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 49 Absatz 1",
+    "chunkId" : 1369,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 293 Absatz 3",
+    "chunkId" : 2004,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 136",
+    "chunkId" : 1597,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 29 Absatz 2",
+    "chunkId" : 3414,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 44 Absatz 4",
+    "chunkId" : 1352,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 38 Absatz 1",
+    "chunkId" : 1328,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 49 Absatz 3",
+    "chunkId" : 1371,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 49 Absatz 1",
+    "chunkId" : 1369,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 18 Absatz 1",
+    "chunkId" : 1264,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 41 Absatz 4",
+    "chunkId" : 1340,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 41 Absatz 3",
+    "chunkId" : 1339,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 44 Absatz 4",
+    "chunkId" : 1352,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 30 Absatz 3",
+    "chunkId" : 333,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 136",
+    "chunkId" : 1597,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 48 Absatz 2",
+    "chunkId" : 1368,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-03",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 55 Absatz 2",
+    "chunkId" : 1392,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1376,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1375,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1377,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 1",
+    "chunkId" : 1912,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 2",
+    "chunkId" : 1913,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 3",
+    "chunkId" : 1914,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 53 Absatz 2",
+    "chunkId" : 1384,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 4",
+    "chunkId" : 1915,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 2",
+    "chunkId" : 1378,
+    "gold" : true
+  } ]
+}, {
+  "id" : "solvency2-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 55 Absatz 2",
+    "chunkId" : 1392,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1375,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 1",
+    "chunkId" : 1912,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 53 Absatz 2",
+    "chunkId" : 1384,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1376,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 4",
+    "chunkId" : 1915,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 2",
+    "chunkId" : 1913,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 3",
+    "chunkId" : 1914,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 54 Absatz 2",
+    "chunkId" : 1390,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 53 Absatz 4",
+    "chunkId" : 1386,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1375,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 2",
+    "chunkId" : 1378,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 2",
+    "chunkId" : 1913,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1377,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 2",
+    "chunkId" : 1379,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 51 Absatz 1",
+    "chunkId" : 1376,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 256 Absatz 1",
+    "chunkId" : 1912,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 54 Absatz 2",
+    "chunkId" : 1390,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 55 Absatz 2",
+    "chunkId" : 1392,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 54 Absatz 1",
+    "chunkId" : 1389,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-04",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 93 Absatz 1",
+    "chunkId" : 1482,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 2",
+    "chunkId" : 1485,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 95",
+    "chunkId" : 1487,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 3",
+    "chunkId" : 1486,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 1",
+    "chunkId" : 1484,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 93 Absatz 2",
+    "chunkId" : 1483,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 90 Absatz 2",
+    "chunkId" : 1475,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 87",
+    "chunkId" : 1470,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 97 Absatz 1",
+    "chunkId" : 1490,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 89 Absatz 1",
+    "chunkId" : 1472,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 2",
+    "chunkId" : 1485,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 93 Absatz 1",
+    "chunkId" : 1482,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 3",
+    "chunkId" : 1486,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 95",
+    "chunkId" : 1487,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 1",
+    "chunkId" : 1484,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 93 Absatz 2",
+    "chunkId" : 1483,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 97 Absatz 1",
+    "chunkId" : 1490,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 90 Absatz 2",
+    "chunkId" : 1475,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 96",
+    "chunkId" : 1489,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 90 Absatz 1",
+    "chunkId" : 1474,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 93 Absatz 1",
+    "chunkId" : 1482,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 1",
+    "chunkId" : 1484,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 2",
+    "chunkId" : 1485,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 93 Absatz 2",
+    "chunkId" : 1483,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 95",
+    "chunkId" : 1487,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 94 Absatz 3",
+    "chunkId" : 1486,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 96",
+    "chunkId" : 1489,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 96",
+    "chunkId" : 1488,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 97 Absatz 1",
+    "chunkId" : 1490,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 87",
+    "chunkId" : 1470,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-05",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 1",
+    "chunkId" : 1342,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 2",
+    "chunkId" : 1343,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 3",
+    "chunkId" : 1344,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 257",
+    "chunkId" : 1916,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 26 Absatz 3",
+    "chunkId" : 1284,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 2",
+    "chunkId" : 243,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 31 Absatz 11",
+    "chunkId" : 4369,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 8",
+    "chunkId" : 251,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 2",
+    "chunkId" : 242,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 31 Absatz 2",
+    "chunkId" : 4360,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 1",
+    "chunkId" : 1342,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 2",
+    "chunkId" : 1343,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 3",
+    "chunkId" : 1344,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 26 Absatz 3",
+    "chunkId" : 1284,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 257",
+    "chunkId" : 1916,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 211 Absatz 2",
+    "chunkId" : 1768,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 2",
+    "chunkId" : 243,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 21 Absatz 3",
+    "chunkId" : 1273,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 3",
+    "chunkId" : 245,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 146 Absatz 1",
+    "chunkId" : 1621,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 1",
+    "chunkId" : 1342,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 2",
+    "chunkId" : 1343,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 42 Absatz 3",
+    "chunkId" : 1344,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 26 Absatz 3",
+    "chunkId" : 1284,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 257",
+    "chunkId" : 1916,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 211 Absatz 2",
+    "chunkId" : 1768,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 146 Absatz 1",
+    "chunkId" : 1621,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 10 Absatz 2",
+    "chunkId" : 243,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 31 Absatz 10",
+    "chunkId" : 4368,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 59 Absatz 1",
+    "chunkId" : 1405,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-06",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 186 Absatz 1",
+    "chunkId" : 1727,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 186 Absatz 2",
+    "chunkId" : 1728,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 5",
+    "chunkId" : 1721,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 1",
+    "chunkId" : 1716,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 12 Absatz 1",
+    "chunkId" : 1236,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 237 Absatz 2",
+    "chunkId" : 1847,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 39 Absatz 5",
+    "chunkId" : 1334,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 74 Absatz 1",
+    "chunkId" : 1440,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 138 Absatz 2",
+    "chunkId" : 1600,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 138 Absatz 3",
+    "chunkId" : 1601,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 186 Absatz 1",
+    "chunkId" : 1727,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 1",
+    "chunkId" : 1716,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 183 Absatz 1",
+    "chunkId" : 1711,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 305 Absatz 2",
+    "chunkId" : 2042,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 3",
+    "chunkId" : 1719,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 186 Absatz 2",
+    "chunkId" : 1728,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 107 Absatz 2",
+    "chunkId" : 1528,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 5",
+    "chunkId" : 1721,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 5",
+    "chunkId" : 1722,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 12 Absatz 1",
+    "chunkId" : 1236,
+    "gold" : false
+  } ]
+}, {
+  "id" : "solvency2-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "Solvabilität II, Artikel 186 Absatz 1",
+    "chunkId" : 1727,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 186 Absatz 2",
+    "chunkId" : 1728,
+    "gold" : true
+  }, {
+    "citation" : "Solvabilität II, Artikel 39 Absatz 5",
+    "chunkId" : 1334,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 237 Absatz 2",
+    "chunkId" : 1847,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 6 Absatz 4",
+    "chunkId" : 229,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Artikel 4 Absatz 3",
+    "chunkId" : 219,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 138 Absatz 3",
+    "chunkId" : 1601,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 138 Absatz 2",
+    "chunkId" : 1600,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 185 Absatz 5",
+    "chunkId" : 1721,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 276 Absatz 3",
+    "chunkId" : 1967,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-01",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3087,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(1)",
+    "chunkId" : 3082,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(2)",
+    "chunkId" : 3085,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 3",
+    "chunkId" : 2931,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 30(2)",
+    "chunkId" : 3083,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 28(5)",
+    "chunkId" : 3072,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3089,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(4)",
+    "chunkId" : 3090,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3088,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3086,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 30(2)",
+    "chunkId" : 3083,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 3",
+    "chunkId" : 2931,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 30(1)",
+    "chunkId" : 3082,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3089,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 37(1)",
+    "chunkId" : 3145,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 31(2)",
+    "chunkId" : 3094,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 31(3)",
+    "chunkId" : 3096,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 31(2)",
+    "chunkId" : 3095,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 39(7)",
+    "chunkId" : 3161,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 29(2)",
+    "chunkId" : 3080,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 30(2)",
+    "chunkId" : 3083,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(1)",
+    "chunkId" : 3082,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3086,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3087,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3088,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(2)",
+    "chunkId" : 3085,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 30(2)",
+    "chunkId" : 3084,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 29(2)",
+    "chunkId" : 3080,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 30(3)",
+    "chunkId" : 3089,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 28(5)",
+    "chunkId" : 3072,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-02",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 26(2)",
+    "chunkId" : 3052,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 26(7)",
+    "chunkId" : 3058,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 27(1)",
+    "chunkId" : 3064,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 3",
+    "chunkId" : 2930,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(8)",
+    "chunkId" : 3059,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 27(2)",
+    "chunkId" : 3065,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 25(1)",
+    "chunkId" : 3048,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 25(3)",
+    "chunkId" : 3050,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(1)",
+    "chunkId" : 3051,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 33(3)",
+    "chunkId" : 3119,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 26(2)",
+    "chunkId" : 3052,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 3",
+    "chunkId" : 2930,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(7)",
+    "chunkId" : 3058,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 27(1)",
+    "chunkId" : 3064,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 25(1)",
+    "chunkId" : 3048,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 27(2)",
+    "chunkId" : 3065,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 9(8)",
+    "chunkId" : 3650,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(1)",
+    "chunkId" : 3051,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 26(4)",
+    "chunkId" : 3054,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 26(8)",
+    "chunkId" : 3059,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 26(2)",
+    "chunkId" : 3052,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 26(7)",
+    "chunkId" : 3058,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 27(1)",
+    "chunkId" : 3064,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 3",
+    "chunkId" : 2930,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(1)",
+    "chunkId" : 3051,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 9(8)",
+    "chunkId" : 3650,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 27(2)",
+    "chunkId" : 3065,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 60(5)",
+    "chunkId" : 3934,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 60(6)",
+    "chunkId" : 3935,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(8)",
+    "chunkId" : 3059,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-en-03",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "DORA, Article 6(4)",
+    "chunkId" : 2952,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(2)",
+    "chunkId" : 2944,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 28(1)",
+    "chunkId" : 3067,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(1)",
+    "chunkId" : 2949,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(6)",
+    "chunkId" : 2954,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(3)",
+    "chunkId" : 2951,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(4)",
+    "chunkId" : 2948,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(10)",
+    "chunkId" : 2959,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(1)",
+    "chunkId" : 2943,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 8(1)",
+    "chunkId" : 2961,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 5(2)",
+    "chunkId" : 2944,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(4)",
+    "chunkId" : 2952,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(10)",
+    "chunkId" : 2959,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 28(1)",
+    "chunkId" : 3067,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(6)",
+    "chunkId" : 2954,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 8(1)",
+    "chunkId" : 2961,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 11(3)",
+    "chunkId" : 2980,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(4)",
+    "chunkId" : 2948,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(1)",
+    "chunkId" : 2949,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(3)",
+    "chunkId" : 2951,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 5(2)",
+    "chunkId" : 2944,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(4)",
+    "chunkId" : 2952,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(10)",
+    "chunkId" : 2959,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 28(1)",
+    "chunkId" : 3067,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(3)",
+    "chunkId" : 2947,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(6)",
+    "chunkId" : 2954,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(4)",
+    "chunkId" : 2948,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(3)",
+    "chunkId" : 2951,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(5)",
+    "chunkId" : 3056,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(1)",
+    "chunkId" : 2943,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-en-04",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 18(1)",
+    "chunkId" : 3019,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 17(3)",
+    "chunkId" : 3017,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 17(3)",
+    "chunkId" : 3018,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 17(1)",
+    "chunkId" : 3015,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 17(2)",
+    "chunkId" : 3016,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 19(3)",
+    "chunkId" : 3027,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 18(2)",
+    "chunkId" : 3020,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 13(3)",
+    "chunkId" : 2998,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 13(2)",
+    "chunkId" : 2997,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 19(8)",
+    "chunkId" : 3032,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "DORA, Article 17(3)",
+    "chunkId" : 3017,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 18(1)",
+    "chunkId" : 3019,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 17(1)",
+    "chunkId" : 3015,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 17(3)",
+    "chunkId" : 3018,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 17(2)",
+    "chunkId" : 3016,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 18(3)",
+    "chunkId" : 3021,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 19(3)",
+    "chunkId" : 3027,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 18(2)",
+    "chunkId" : 3020,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 13(2)",
+    "chunkId" : 2997,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 19(1)",
+    "chunkId" : 3023,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 18(1)",
+    "chunkId" : 3019,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 18(3)",
+    "chunkId" : 3021,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 17(3)",
+    "chunkId" : 3017,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 18(2)",
+    "chunkId" : 3020,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 18(4)",
+    "chunkId" : 3022,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 20",
+    "chunkId" : 3034,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 19(1)",
+    "chunkId" : 3023,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 10(2)",
+    "chunkId" : 2975,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 15",
+    "chunkId" : 3007,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 22(2)",
+    "chunkId" : 3040,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-05",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 5,
+  "top" : [ {
+    "citation" : "DORA, Article 6(1)",
+    "chunkId" : 2949,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(3)",
+    "chunkId" : 2951,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(6)",
+    "chunkId" : 2954,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(4)",
+    "chunkId" : 2952,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 16(1)",
+    "chunkId" : 3011,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 28(1)",
+    "chunkId" : 3067,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(8)",
+    "chunkId" : 2956,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 8(1)",
+    "chunkId" : 2961,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 11(3)",
+    "chunkId" : 2980,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 5(2)",
+    "chunkId" : 2944,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 6,
+  "top" : [ {
+    "citation" : "DORA, Article 6(1)",
+    "chunkId" : 2949,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(3)",
+    "chunkId" : 2951,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(6)",
+    "chunkId" : 2954,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(4)",
+    "chunkId" : 2952,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(10)",
+    "chunkId" : 2959,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 16(1)",
+    "chunkId" : 3011,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(8)",
+    "chunkId" : 2956,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 11(3)",
+    "chunkId" : 2980,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 8(1)",
+    "chunkId" : 2961,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 11(1)",
+    "chunkId" : 2978,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 16(1)",
+    "chunkId" : 3009,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 6(1)",
+    "chunkId" : 2949,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(4)",
+    "chunkId" : 2952,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(10)",
+    "chunkId" : 2959,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(6)",
+    "chunkId" : 2954,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(9)",
+    "chunkId" : 2958,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 6(3)",
+    "chunkId" : 2951,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 26(5)",
+    "chunkId" : 3056,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 28(2)",
+    "chunkId" : 3068,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 11(3)",
+    "chunkId" : 2980,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-06",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 35(11)",
+    "chunkId" : 3138,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(8)",
+    "chunkId" : 3135,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(7)",
+    "chunkId" : 3134,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(6)",
+    "chunkId" : 3133,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 39(6)",
+    "chunkId" : 3160,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 35(5)",
+    "chunkId" : 3132,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 33(1)",
+    "chunkId" : 3116,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 38(4)",
+    "chunkId" : 3153,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 37(1)",
+    "chunkId" : 3145,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 33(2)",
+    "chunkId" : 3117,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 35(7)",
+    "chunkId" : 3134,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(11)",
+    "chunkId" : 3138,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(8)",
+    "chunkId" : 3135,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(6)",
+    "chunkId" : 3133,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 38(4)",
+    "chunkId" : 3153,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 33(1)",
+    "chunkId" : 3116,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 39(6)",
+    "chunkId" : 3160,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 35(5)",
+    "chunkId" : 3132,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 39(7)",
+    "chunkId" : 3161,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 31(13)",
+    "chunkId" : 3106,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Article 35(8)",
+    "chunkId" : 3135,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(7)",
+    "chunkId" : 3134,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(11)",
+    "chunkId" : 3138,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 35(6)",
+    "chunkId" : 3133,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Article 38(4)",
+    "chunkId" : 3153,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 39(6)",
+    "chunkId" : 3160,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 38(3)",
+    "chunkId" : 3152,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 39(2)",
+    "chunkId" : 3156,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 43(1)",
+    "chunkId" : 3180,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Article 35(10)",
+    "chunkId" : 3137,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-01",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 19 Absatz 3",
+    "chunkId" : 3357,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 17 Absatz 2",
+    "chunkId" : 3346,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 5",
+    "chunkId" : 3359,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 17 Absatz 1",
+    "chunkId" : 3345,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 6 Absatz 10",
+    "chunkId" : 3289,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3353,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 8 Absatz 2",
+    "chunkId" : 3292,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3354,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 2",
+    "chunkId" : 3327,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 4",
+    "chunkId" : 3358,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "DORA, Artikel 17 Absatz 1",
+    "chunkId" : 3345,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 3",
+    "chunkId" : 3357,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3353,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 17 Absatz 2",
+    "chunkId" : 3346,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 5",
+    "chunkId" : 3359,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 2",
+    "chunkId" : 3327,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 11 Absatz 10",
+    "chunkId" : 3317,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3354,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 18 Absatz 1",
+    "chunkId" : 3349,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 4",
+    "chunkId" : 3358,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3353,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3355,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 5",
+    "chunkId" : 3359,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 3",
+    "chunkId" : 3357,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 1",
+    "chunkId" : 3354,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 11 Absatz 10",
+    "chunkId" : 3317,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 4",
+    "chunkId" : 3358,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 8",
+    "chunkId" : 3363,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 2",
+    "chunkId" : 3327,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 22 Absatz 2",
+    "chunkId" : 3371,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-02",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 12 Absatz 1",
+    "chunkId" : 3319,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 2",
+    "chunkId" : 3320,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 7",
+    "chunkId" : 3325,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 3",
+    "chunkId" : 3321,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 8 Absatz 2",
+    "chunkId" : 4234,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 6",
+    "chunkId" : 3324,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 9 Absatz 3",
+    "chunkId" : 3300,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 16",
+    "chunkId" : 4279,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 43 Absatz 6",
+    "chunkId" : 2691,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 25 Absatz 2",
+    "chunkId" : 2586,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 12 Absatz 1",
+    "chunkId" : 3319,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 2",
+    "chunkId" : 3320,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 7",
+    "chunkId" : 3325,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 8 Absatz 2",
+    "chunkId" : 4234,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 3",
+    "chunkId" : 3321,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 6",
+    "chunkId" : 3324,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 32 Absatz 8",
+    "chunkId" : 3447,
+    "gold" : false
+  }, {
+    "citation" : "Solvabilität II, Artikel 218 Absatz 4",
+    "chunkId" : 1797,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 23",
+    "chunkId" : 3372,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 9 Absatz 3",
+    "chunkId" : 3300,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 12 Absatz 3",
+    "chunkId" : 3321,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 1",
+    "chunkId" : 3319,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 2",
+    "chunkId" : 3320,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 7",
+    "chunkId" : 3325,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 12 Absatz 6",
+    "chunkId" : 3324,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 10 Absatz 4",
+    "chunkId" : 3307,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 11 Absatz 6",
+    "chunkId" : 3313,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 9 Absatz 3",
+    "chunkId" : 3300,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 43 Absatz 8",
+    "chunkId" : 2693,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 42 Absatz 1",
+    "chunkId" : 2678,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-03",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 28 Absatz 3",
+    "chunkId" : 3401,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 5",
+    "chunkId" : 3404,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 1",
+    "chunkId" : 3415,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 2",
+    "chunkId" : 3416,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 3",
+    "chunkId" : 3262,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 4",
+    "chunkId" : 3403,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 3",
+    "chunkId" : 3419,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 7",
+    "chunkId" : 3406,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 4",
+    "chunkId" : 3423,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 2",
+    "chunkId" : 3417,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 28 Absatz 3",
+    "chunkId" : 3401,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 5",
+    "chunkId" : 3404,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 4",
+    "chunkId" : 3403,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 3",
+    "chunkId" : 3262,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 7",
+    "chunkId" : 3406,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 4",
+    "chunkId" : 3423,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 1",
+    "chunkId" : 3415,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 29 Absatz 1",
+    "chunkId" : 3412,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 29 Absatz 2",
+    "chunkId" : 3413,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 2",
+    "chunkId" : 3417,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 28 Absatz 3",
+    "chunkId" : 3401,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 2",
+    "chunkId" : 3416,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 5",
+    "chunkId" : 3404,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 3",
+    "chunkId" : 3419,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 1",
+    "chunkId" : 3415,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 3",
+    "chunkId" : 3402,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 4",
+    "chunkId" : 3403,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 37 Absatz 1",
+    "chunkId" : 3478,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 30 Absatz 2",
+    "chunkId" : 3417,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 28 Absatz 7",
+    "chunkId" : 3406,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-04",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 31 Absatz 3",
+    "chunkId" : 3429,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 4",
+    "chunkId" : 3430,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 12",
+    "chunkId" : 3438,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 11",
+    "chunkId" : 3437,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3427,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 13",
+    "chunkId" : 3439,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3428,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 9",
+    "chunkId" : 3435,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3426,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 8",
+    "chunkId" : 3434,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 31 Absatz 3",
+    "chunkId" : 3429,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 11",
+    "chunkId" : 3437,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 12",
+    "chunkId" : 3438,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 4",
+    "chunkId" : 3430,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3427,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 13",
+    "chunkId" : 3439,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 9",
+    "chunkId" : 3435,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 6",
+    "chunkId" : 3432,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3426,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3428,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3426,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 1",
+    "chunkId" : 3425,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3428,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 3",
+    "chunkId" : 3429,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 2",
+    "chunkId" : 3427,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 12",
+    "chunkId" : 3438,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 6",
+    "chunkId" : 3432,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 11",
+    "chunkId" : 3437,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 4",
+    "chunkId" : 3430,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 31 Absatz 8",
+    "chunkId" : 3434,
+    "gold" : true
+  } ]
+}, {
+  "id" : "dora-de-05",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 45 Absatz 1",
+    "chunkId" : 3517,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 45 Absatz 3",
+    "chunkId" : 3519,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 1",
+    "chunkId" : 3326,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 18 Absatz 2",
+    "chunkId" : 3350,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 8 Absatz 2",
+    "chunkId" : 3292,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 3",
+    "chunkId" : 3357,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 49 Absatz 1",
+    "chunkId" : 3529,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 4",
+    "chunkId" : 3329,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 7",
+    "chunkId" : 3332,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 17 Absatz 2",
+    "chunkId" : 3346,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 45 Absatz 1",
+    "chunkId" : 3517,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 45 Absatz 3",
+    "chunkId" : 3519,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 1",
+    "chunkId" : 3326,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 8 Absatz 2",
+    "chunkId" : 3292,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 18 Absatz 2",
+    "chunkId" : 3350,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 5",
+    "chunkId" : 3359,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 1 Absatz 1",
+    "chunkId" : 3246,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 3",
+    "chunkId" : 3357,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 45 Absatz 2",
+    "chunkId" : 3518,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 2",
+    "chunkId" : 3356,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "DORA, Artikel 45 Absatz 1",
+    "chunkId" : 3517,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 45 Absatz 3",
+    "chunkId" : 3519,
+    "gold" : true
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 1",
+    "chunkId" : 3326,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 49 Absatz 1",
+    "chunkId" : 3529,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 1 Absatz 1",
+    "chunkId" : 3246,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 18 Absatz 2",
+    "chunkId" : 3350,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 8 Absatz 2",
+    "chunkId" : 3292,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 19 Absatz 2",
+    "chunkId" : 3356,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 10 Absatz 3",
+    "chunkId" : 3306,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 17 Absatz 2",
+    "chunkId" : 3346,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-06",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 0,
+  "top" : [ {
+    "citation" : "DORA, Artikel 3",
+    "chunkId" : 3255,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 24 Absatz 3",
+    "chunkId" : 3375,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 58 Absatz 3",
+    "chunkId" : 3565,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 4",
+    "chunkId" : 3329,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 62",
+    "chunkId" : 3579,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 24 Absatz 6",
+    "chunkId" : 3378,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 5 Absatz 2",
+    "chunkId" : 3275,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 1 Absatz 1",
+    "chunkId" : 3246,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 24 Absatz 1",
+    "chunkId" : 3373,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 6",
+    "chunkId" : 3331,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 0,
+  "top" : [ {
+    "citation" : "DORA, Artikel 24 Absatz 3",
+    "chunkId" : 3375,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 24 Absatz 1",
+    "chunkId" : 3373,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 24 Absatz 6",
+    "chunkId" : 3378,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 58 Absatz 3",
+    "chunkId" : 3565,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 1 Absatz 1",
+    "chunkId" : 3246,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 24 Absatz 2",
+    "chunkId" : 3374,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 60",
+    "chunkId" : 3568,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 59",
+    "chunkId" : 3566,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 3",
+    "chunkId" : 3255,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 6 Absatz 8",
+    "chunkId" : 3287,
+    "gold" : false
+  } ]
+}, {
+  "id" : "dora-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 0,
+  "top" : [ {
+    "citation" : "DORA, Artikel 60",
+    "chunkId" : 3568,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 61",
+    "chunkId" : 3575,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 59",
+    "chunkId" : 3566,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 62",
+    "chunkId" : 3579,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 3",
+    "chunkId" : 3255,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 58 Absatz 3",
+    "chunkId" : 3565,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 1 Absatz 1",
+    "chunkId" : 3246,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 58 Absatz 2",
+    "chunkId" : 3564,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 13 Absatz 4",
+    "chunkId" : 3329,
+    "gold" : false
+  }, {
+    "citation" : "DORA, Artikel 5 Absatz 2",
+    "chunkId" : 3275,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-01",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3617,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 15(5)",
+    "chunkId" : 3682,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3616,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 60(5)",
+    "chunkId" : 3934,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(3)",
+    "chunkId" : 3621,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(8)",
+    "chunkId" : 3627,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 46(2)",
+    "chunkId" : 3832,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(7)",
+    "chunkId" : 3626,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3618,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3614,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3616,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 15(5)",
+    "chunkId" : 3682,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 46(2)",
+    "chunkId" : 3832,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 26(10)",
+    "chunkId" : 3735,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 4",
+    "chunkId" : 3613,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3617,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 3",
+    "chunkId" : 3599,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 26(1)",
+    "chunkId" : 3725,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 60(5)",
+    "chunkId" : 3934,
+    "gold" : false
+  }, {
+    "citation" : "IDD, Article 33(2)",
+    "chunkId" : 156,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-01",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3614,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3616,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3617,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(3)",
+    "chunkId" : 3621,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 46(2)",
+    "chunkId" : 3832,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3618,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 99(3)",
+    "chunkId" : 4117,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 26(10)",
+    "chunkId" : 3737,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(8)",
+    "chunkId" : 3627,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(7)",
+    "chunkId" : 3626,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-en-02",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 99(3)",
+    "chunkId" : 4117,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 100(2)",
+    "chunkId" : 4129,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(3)",
+    "chunkId" : 4137,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(3)",
+    "chunkId" : 4130,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(4)",
+    "chunkId" : 4138,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3616,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3617,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(1)",
+    "chunkId" : 4135,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 80(4)",
+    "chunkId" : 4055,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(5)",
+    "chunkId" : 4139,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "AI Act, Article 100(2)",
+    "chunkId" : 4129,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 99(3)",
+    "chunkId" : 4117,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3616,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(3)",
+    "chunkId" : 4130,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3617,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 99(7)",
+    "chunkId" : 4121,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 5(8)",
+    "chunkId" : 3627,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(3)",
+    "chunkId" : 4137,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 80(4)",
+    "chunkId" : 4055,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(4)",
+    "chunkId" : 4138,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-02",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 99(3)",
+    "chunkId" : 4117,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 100(2)",
+    "chunkId" : 4129,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3616,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 100(3)",
+    "chunkId" : 4130,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3614,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3618,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 101(5)",
+    "chunkId" : 4139,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(1)",
+    "chunkId" : 3617,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(2)",
+    "chunkId" : 3619,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 5(8)",
+    "chunkId" : 3627,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-03",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 14(1)",
+    "chunkId" : 3672,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(2)",
+    "chunkId" : 3673,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(3)",
+    "chunkId" : 3674,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3676,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 27(1)",
+    "chunkId" : 3741,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 15(4)",
+    "chunkId" : 3681,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3675,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(2)",
+    "chunkId" : 3726,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 14(5)",
+    "chunkId" : 3677,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 9(6)",
+    "chunkId" : 3648,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 14(3)",
+    "chunkId" : 3674,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(2)",
+    "chunkId" : 3673,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(1)",
+    "chunkId" : 3672,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 27(1)",
+    "chunkId" : 3741,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3676,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3675,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(2)",
+    "chunkId" : 3726,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 14(5)",
+    "chunkId" : 3677,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 9(6)",
+    "chunkId" : 3648,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 26(1)",
+    "chunkId" : 3725,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-03",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 14(3)",
+    "chunkId" : 3674,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(5)",
+    "chunkId" : 3677,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(2)",
+    "chunkId" : 3673,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(1)",
+    "chunkId" : 3672,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3675,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(2)",
+    "chunkId" : 3726,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 13(3)",
+    "chunkId" : 3671,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3676,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 27(1)",
+    "chunkId" : 3741,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 15(4)",
+    "chunkId" : 3681,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-04",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 26(1)",
+    "chunkId" : 3725,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(7)",
+    "chunkId" : 3732,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(5)",
+    "chunkId" : 3729,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(11)",
+    "chunkId" : 3738,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 13(1)",
+    "chunkId" : 3667,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 26(6)",
+    "chunkId" : 3731,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(12)",
+    "chunkId" : 3739,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(2)",
+    "chunkId" : 3726,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(4)",
+    "chunkId" : 3728,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(8)",
+    "chunkId" : 3733,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 26(1)",
+    "chunkId" : 3725,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(11)",
+    "chunkId" : 3738,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(12)",
+    "chunkId" : 3739,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(7)",
+    "chunkId" : 3732,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(8)",
+    "chunkId" : 3733,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(4)",
+    "chunkId" : 3728,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(6)",
+    "chunkId" : 3731,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(5)",
+    "chunkId" : 3729,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 27(1)",
+    "chunkId" : 3740,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 26(9)",
+    "chunkId" : 3734,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-en-04",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 26(5)",
+    "chunkId" : 3729,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(1)",
+    "chunkId" : 3725,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(6)",
+    "chunkId" : 3731,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(2)",
+    "chunkId" : 3726,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(10)",
+    "chunkId" : 3737,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(12)",
+    "chunkId" : 3739,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(7)",
+    "chunkId" : 3732,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(11)",
+    "chunkId" : 3738,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 26(4)",
+    "chunkId" : 3728,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 14(4)",
+    "chunkId" : 3675,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-05",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 50(4)",
+    "chunkId" : 3856,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(3)",
+    "chunkId" : 3855,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 13(1)",
+    "chunkId" : 3667,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 50(2)",
+    "chunkId" : 3854,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(1)",
+    "chunkId" : 3853,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(4)",
+    "chunkId" : 3857,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(6)",
+    "chunkId" : 3859,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(5)",
+    "chunkId" : 3858,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 13(2)",
+    "chunkId" : 3668,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 12(6)",
+    "chunkId" : 2105,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 50(4)",
+    "chunkId" : 3856,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 3",
+    "chunkId" : 3610,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 13(1)",
+    "chunkId" : 3667,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 50(3)",
+    "chunkId" : 3855,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(6)",
+    "chunkId" : 3859,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(4)",
+    "chunkId" : 3857,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(1)",
+    "chunkId" : 3853,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 13(3)",
+    "chunkId" : 3669,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 41(2)",
+    "chunkId" : 2239,
+    "gold" : false
+  }, {
+    "citation" : "GDPR, Article 54(2)",
+    "chunkId" : 2308,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-05",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 50(4)",
+    "chunkId" : 3856,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 3",
+    "chunkId" : 3610,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 50(4)",
+    "chunkId" : 3857,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(1)",
+    "chunkId" : 3853,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(5)",
+    "chunkId" : 3858,
+    "gold" : true
+  }, {
+    "citation" : "GDPR, Article 42(3)",
+    "chunkId" : 2246,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 50(2)",
+    "chunkId" : 3854,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(3)",
+    "chunkId" : 3855,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 50(6)",
+    "chunkId" : 3859,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 13(3)",
+    "chunkId" : 3669,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-06",
+  "lang" : "en",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 51(1)",
+    "chunkId" : 3861,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 3",
+    "chunkId" : 3611,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 51(2)",
+    "chunkId" : 3862,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 55(1)",
+    "chunkId" : 3885,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(3)",
+    "chunkId" : 3866,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(6)",
+    "chunkId" : 3869,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 55(2)",
+    "chunkId" : 3886,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(2)",
+    "chunkId" : 3865,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(1)",
+    "chunkId" : 3864,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(5)",
+    "chunkId" : 3868,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 51(1)",
+    "chunkId" : 3861,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 52(3)",
+    "chunkId" : 3866,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 51(2)",
+    "chunkId" : 3862,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 52(2)",
+    "chunkId" : 3865,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 55(1)",
+    "chunkId" : 3885,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 90(1)",
+    "chunkId" : 4081,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(5)",
+    "chunkId" : 3868,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 55(2)",
+    "chunkId" : 3886,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 3",
+    "chunkId" : 3611,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(1)",
+    "chunkId" : 3864,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-en-06",
+  "lang" : "en",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "AI Act, Article 51(1)",
+    "chunkId" : 3861,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 51(2)",
+    "chunkId" : 3862,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 52(5)",
+    "chunkId" : 3868,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(3)",
+    "chunkId" : 3866,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(1)",
+    "chunkId" : 3864,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 51(3)",
+    "chunkId" : 3863,
+    "gold" : true
+  }, {
+    "citation" : "AI Act, Article 90(1)",
+    "chunkId" : 4081,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(2)",
+    "chunkId" : 3865,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 52(4)",
+    "chunkId" : 3867,
+    "gold" : false
+  }, {
+    "citation" : "AI Act, Article 55(1)",
+    "chunkId" : 3885,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-01",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 1",
+    "chunkId" : 4219,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 15 Absatz 1",
+    "chunkId" : 4273,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 6",
+    "chunkId" : 4240,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 3",
+    "chunkId" : 4222,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 2",
+    "chunkId" : 4220,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 3",
+    "chunkId" : 4221,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 9",
+    "chunkId" : 4243,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 1",
+    "chunkId" : 4235,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 80 Absatz 1",
+    "chunkId" : 4653,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 2 Absatz 2",
+    "chunkId" : 4172,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 1",
+    "chunkId" : 4219,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 3",
+    "chunkId" : 4222,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 3",
+    "chunkId" : 4221,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 80 Absatz 1",
+    "chunkId" : 4653,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 48 Absatz 5",
+    "chunkId" : 4445,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 15 Absatz 1",
+    "chunkId" : 4273,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 25 Absatz 2",
+    "chunkId" : 4316,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 6",
+    "chunkId" : 4240,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 2",
+    "chunkId" : 4220,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 25 Absatz 4",
+    "chunkId" : 4318,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-01",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 1",
+    "chunkId" : 4219,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 111 Absatz 2",
+    "chunkId" : 4756,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 3",
+    "chunkId" : 4222,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 3",
+    "chunkId" : 4221,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 25 Absatz 1",
+    "chunkId" : 4315,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 25 Absatz 3",
+    "chunkId" : 4317,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 2 Absatz 2",
+    "chunkId" : 4172,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 8",
+    "chunkId" : 4242,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 6 Absatz 2",
+    "chunkId" : 4220,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 47 Absatz 1",
+    "chunkId" : 4436,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-02",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 3",
+    "chunkId" : 4471,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 4",
+    "chunkId" : 4472,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 2",
+    "chunkId" : 4470,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 54 Absatz 6",
+    "chunkId" : 4482,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 56 Absatz 7",
+    "chunkId" : 4492,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 1",
+    "chunkId" : 4483,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 2",
+    "chunkId" : 4484,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 1",
+    "chunkId" : 4468,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 7",
+    "chunkId" : 4475,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 3",
+    "chunkId" : 4485,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 3",
+    "chunkId" : 4471,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 4",
+    "chunkId" : 4472,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 2",
+    "chunkId" : 4470,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 54 Absatz 6",
+    "chunkId" : 4482,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 56 Absatz 7",
+    "chunkId" : 4492,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 2",
+    "chunkId" : 4484,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 1",
+    "chunkId" : 4468,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 1",
+    "chunkId" : 4483,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 54 Absatz 1",
+    "chunkId" : 4476,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 7",
+    "chunkId" : 4475,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-de-02",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 1",
+    "chunkId" : 4469,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 1",
+    "chunkId" : 4468,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 1",
+    "chunkId" : 4483,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 2",
+    "chunkId" : 4484,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 4",
+    "chunkId" : 4472,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 2",
+    "chunkId" : 4470,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 53 Absatz 3",
+    "chunkId" : 4471,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 54 Absatz 6",
+    "chunkId" : 4482,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 55 Absatz 3",
+    "chunkId" : 4485,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 88 Absatz 1",
+    "chunkId" : 4678,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-03",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 4",
+    "chunkId" : 4341,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 2",
+    "chunkId" : 4339,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 3",
+    "chunkId" : 2631,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 2",
+    "chunkId" : 2630,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 1",
+    "chunkId" : 4338,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 5",
+    "chunkId" : 4342,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 3",
+    "chunkId" : 4340,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 10",
+    "chunkId" : 2638,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 1",
+    "chunkId" : 4337,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 11",
+    "chunkId" : 2639,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 4",
+    "chunkId" : 4341,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 2",
+    "chunkId" : 4339,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 5",
+    "chunkId" : 4342,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 2",
+    "chunkId" : 2630,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 1",
+    "chunkId" : 4338,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 3",
+    "chunkId" : 4340,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 1",
+    "chunkId" : 4337,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 10",
+    "chunkId" : 2638,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 3",
+    "chunkId" : 2631,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 11",
+    "chunkId" : 2639,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-03",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 3",
+    "chunkId" : 4340,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 1",
+    "chunkId" : 4337,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 2",
+    "chunkId" : 4339,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 5",
+    "chunkId" : 4342,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 77 Absatz 3",
+    "chunkId" : 4635,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 1",
+    "chunkId" : 2629,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 77 Absatz 1",
+    "chunkId" : 4633,
+    "gold" : false
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 10",
+    "chunkId" : 2638,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 27 Absatz 4",
+    "chunkId" : 4341,
+    "gold" : true
+  }, {
+    "citation" : "DSGVO, Artikel 35 Absatz 2",
+    "chunkId" : 2630,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-04",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 5",
+    "chunkId" : 4499,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 15",
+    "chunkId" : 4509,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 13",
+    "chunkId" : 4507,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 58 Absatz 2",
+    "chunkId" : 4516,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 11",
+    "chunkId" : 4505,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 9",
+    "chunkId" : 4503,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 3",
+    "chunkId" : 4497,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 17",
+    "chunkId" : 4511,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 10",
+    "chunkId" : 4504,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 58 Absatz 4",
+    "chunkId" : 4518,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 13",
+    "chunkId" : 4507,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 15",
+    "chunkId" : 4509,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 17",
+    "chunkId" : 4511,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 5",
+    "chunkId" : 4499,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 3",
+    "chunkId" : 4497,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 11",
+    "chunkId" : 4505,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 2",
+    "chunkId" : 4496,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 1",
+    "chunkId" : 4495,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 58 Absatz 2",
+    "chunkId" : 4516,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 9",
+    "chunkId" : 4503,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-de-04",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 17",
+    "chunkId" : 4511,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 3",
+    "chunkId" : 4497,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 15",
+    "chunkId" : 4509,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 1",
+    "chunkId" : 4495,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 5",
+    "chunkId" : 4499,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 11",
+    "chunkId" : 4505,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 58 Absatz 4",
+    "chunkId" : 4518,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 57 Absatz 9",
+    "chunkId" : 4503,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 3",
+    "chunkId" : 4196,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 58 Absatz 3",
+    "chunkId" : 4517,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-05",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 1",
+    "chunkId" : 4600,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 9",
+    "chunkId" : 4608,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 4",
+    "chunkId" : 4603,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 10",
+    "chunkId" : 4609,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 2",
+    "chunkId" : 4601,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 60 Absatz 7",
+    "chunkId" : 4535,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 6",
+    "chunkId" : 4605,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 46 Absatz 2",
+    "chunkId" : 4430,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 22 Absatz 1",
+    "chunkId" : 4296,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 3",
+    "chunkId" : 4602,
+    "gold" : true
+  } ]
+}, {
+  "id" : "ai-act-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 1",
+    "chunkId" : 4600,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 9",
+    "chunkId" : 4608,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 10",
+    "chunkId" : 4609,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 60 Absatz 7",
+    "chunkId" : 4535,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 4",
+    "chunkId" : 4603,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 6",
+    "chunkId" : 4605,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 2",
+    "chunkId" : 4601,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 22 Absatz 1",
+    "chunkId" : 4296,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 11",
+    "chunkId" : 4610,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 6",
+    "chunkId" : 4240,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-05",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 4",
+    "chunkId" : 4603,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 2",
+    "chunkId" : 4601,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 60 Absatz 7",
+    "chunkId" : 4535,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 9",
+    "chunkId" : 4608,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 10",
+    "chunkId" : 4609,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 26 Absatz 5",
+    "chunkId" : 4325,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 1",
+    "chunkId" : 4600,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 6",
+    "chunkId" : 4605,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 73 Absatz 3",
+    "chunkId" : 4602,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 47 Absatz 1",
+    "chunkId" : 4436,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-06",
+  "lang" : "de",
+  "mode" : "VECTOR",
+  "firstGoldRank" : 1,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 1",
+    "chunkId" : 4245,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 42 Absatz 1",
+    "chunkId" : 4412,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 3",
+    "chunkId" : 4248,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 6",
+    "chunkId" : 4240,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 8 Absatz 1",
+    "chunkId" : 4233,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 13 Absatz 2",
+    "chunkId" : 4262,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 2",
+    "chunkId" : 4246,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 15 Absatz 5",
+    "chunkId" : 4277,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 16",
+    "chunkId" : 4279,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 26 Absatz 9",
+    "chunkId" : 4330,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID",
+  "firstGoldRank" : 3,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 6",
+    "chunkId" : 4240,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 2 Absatz 2",
+    "chunkId" : 4172,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 6",
+    "chunkId" : 4253,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 43 Absatz 3",
+    "chunkId" : 4417,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 8 Absatz 1",
+    "chunkId" : 4233,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 43 Absatz 4",
+    "chunkId" : 4419,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 8",
+    "chunkId" : 4242,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 26 Absatz 4",
+    "chunkId" : 4324,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 17 Absatz 1",
+    "chunkId" : 4280,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 8 Absatz 2",
+    "chunkId" : 4234,
+    "gold" : false
+  } ]
+}, {
+  "id" : "ai-act-de-06",
+  "lang" : "de",
+  "mode" : "HYBRID_RERANK",
+  "firstGoldRank" : 2,
+  "top" : [ {
+    "citation" : "KI-Verordnung, Artikel 42 Absatz 1",
+    "chunkId" : 4412,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 1",
+    "chunkId" : 4245,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 2",
+    "chunkId" : 4246,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 3",
+    "chunkId" : 4248,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 8 Absatz 1",
+    "chunkId" : 4233,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 15 Absatz 5",
+    "chunkId" : 4277,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 10 Absatz 6",
+    "chunkId" : 4253,
+    "gold" : true
+  }, {
+    "citation" : "KI-Verordnung, Artikel 26 Absatz 4",
+    "chunkId" : 4324,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 43 Absatz 3",
+    "chunkId" : 4417,
+    "gold" : false
+  }, {
+    "citation" : "KI-Verordnung, Artikel 9 Absatz 6",
+    "chunkId" : 4240,
+    "gold" : false
+  } ]
+} ]
