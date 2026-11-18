@@ -62,16 +62,39 @@ public class RetrievalService {
     }
 
     /**
-     * Postgres full-text search. The question is turned into an OR query over its stemmed terms, because a
-     * natural language question almost never matches a passage on every term.
+     * Keyword search over the Postgres full-text index, ranked with BM25 (k1 = 1.2, b = 0.75).
+     * The question is turned into an OR query over its stemmed terms, because a natural language question
+     * almost never matches a passage on every term. The GIN index finds the matching passages, and the
+     * score is computed from the term frequencies in the tsvector and the statistics kept at ingestion.
      */
     public List<Chunk> keywordSearch(String question, String lang, int limit) {
-        String config = "de".equals(requireLanguage(lang)) ? "german" : "english";
-        String sql = "WITH q AS (SELECT replace(plainto_tsquery('" + config + "', ?)::text, '&', '|')::tsquery AS query) "
-                + "SELECT " + COLUMNS + ", ts_rank_cd(tsv, q.query, 1) AS score FROM chunk, q "
-                + "WHERE lang = '" + lang + "' AND q.query <> ''::tsquery AND tsv @@ q.query "
-                + "ORDER BY score DESC, id LIMIT ?";
-        return jdbc.query(sql, MAPPER, question, limit);
+        String language = requireLanguage(lang);
+        String config = "de".equals(language) ? "german" : "english";
+        String sql = """
+                WITH q AS (
+                    SELECT replace(plainto_tsquery('%1$s', ?)::text, '&', '|')::tsquery AS query
+                ), corpus AS (
+                    SELECT count(*)::float8 AS docs, avg(doc_len)::float8 AS avg_len FROM chunk WHERE lang = '%2$s'
+                ), terms AS (
+                    SELECT s.lexeme, ln(1 + (corpus.docs - s.df + 0.5) / (s.df + 0.5)) AS idf
+                    FROM unnest(to_tsvector('%1$s', ?)) AS t
+                    JOIN lexeme_stat s ON s.lang = '%2$s' AND s.lexeme = t.lexeme
+                    CROSS JOIN corpus
+                )
+                SELECT c.id, c.act, c.celex, c.lang, c.article, c.article_title, c.paragraph, c.part, c.text,
+                       sum(terms.idf * cardinality(u.positions) * 2.2
+                           / (cardinality(u.positions) + 1.2 * (0.25 + 0.75 * c.doc_len / corpus.avg_len))) AS score
+                FROM chunk c
+                CROSS JOIN q
+                CROSS JOIN corpus
+                CROSS JOIN LATERAL unnest(c.tsv) AS u
+                JOIN terms ON terms.lexeme = u.lexeme
+                WHERE c.lang = '%2$s' AND q.query <> ''::tsquery AND c.tsv @@ q.query
+                GROUP BY c.id
+                ORDER BY score DESC, c.id
+                LIMIT ?
+                """.formatted(config, language);
+        return jdbc.query(sql, MAPPER, question, question, limit);
     }
 
     /** Reciprocal rank fusion: each list contributes 1 / (k + rank) for every passage it returns. */

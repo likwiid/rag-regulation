@@ -11,7 +11,18 @@ CREATE TABLE IF NOT EXISTS chunk (
     part          INT     NOT NULL,
     text          TEXT    NOT NULL,
     embedding     vector(384) NOT NULL,
-    tsv           tsvector    NOT NULL
+    tsv           tsvector    NOT NULL,
+    -- Number of indexed terms, for BM25 length normalisation. Filled at the end of ingestion.
+    doc_len       INT         NOT NULL DEFAULT 0
+);
+ALTER TABLE chunk ADD COLUMN IF NOT EXISTS doc_len INT NOT NULL DEFAULT 0;
+
+-- Document frequency of every stemmed term per language, for the BM25 inverse document frequency.
+CREATE TABLE IF NOT EXISTS lexeme_stat (
+    lang   TEXT NOT NULL,
+    lexeme TEXT NOT NULL,
+    df     INT  NOT NULL,
+    PRIMARY KEY (lang, lexeme)
 );
 
 -- Every query filters on one language, so each language gets its own approximate nearest neighbour index.

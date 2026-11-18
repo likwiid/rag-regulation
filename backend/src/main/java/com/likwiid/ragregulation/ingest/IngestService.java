@@ -65,7 +65,25 @@ public class IngestService {
             total += passages.size();
             log.info("Ingested {} ({}): {} passages", entry.key(), entry.lang(), passages.size());
         }
+        refreshKeywordStats();
         log.info("Ingestion finished: {} passages in {} s", total, (System.currentTimeMillis() - started) / 1000);
+    }
+
+    /**
+     * Postgres full-text search has no inverse document frequency, so the numbers BM25 needs are kept
+     * next to the index: the length of every passage and the document frequency of every stemmed term.
+     */
+    void refreshKeywordStats() {
+        jdbc.update("""
+                UPDATE chunk SET doc_len =
+                    (SELECT coalesce(sum(cardinality(u.positions)), 0) FROM unnest(tsv) AS u)
+                """);
+        jdbc.update("DELETE FROM lexeme_stat");
+        jdbc.update("""
+                INSERT INTO lexeme_stat (lang, lexeme, df)
+                SELECT c.lang, u.lexeme, count(*) FROM chunk c CROSS JOIN LATERAL unnest(c.tsv) AS u
+                GROUP BY c.lang, u.lexeme
+                """);
     }
 
     /** The E5 models expect a "passage: " prefix on documents and "query: " on questions. */
