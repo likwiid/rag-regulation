@@ -1,0 +1,794 @@
+[
+ {
+  "id": "gdpr-en-01",
+  "lang": "en",
+  "type": "answerable",
+  "question": "How long does a controller have to notify the supervisory authority after becoming aware of a personal data breach?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 33
+   }
+  ]
+ },
+ {
+  "id": "gdpr-en-02",
+  "lang": "en",
+  "type": "answerable",
+  "question": "At what age can a child consent on their own to an online service processing their personal data?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 8
+   }
+  ]
+ },
+ {
+  "id": "gdpr-en-03",
+  "lang": "en",
+  "type": "answerable",
+  "question": "When is an organisation required to appoint a data protection officer?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 37
+   }
+  ]
+ },
+ {
+  "id": "gdpr-en-04",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What is the maximum fine for infringing the basic principles for processing personal data?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 83
+   }
+  ]
+ },
+ {
+  "id": "gdpr-en-05",
+  "lang": "en",
+  "type": "answerable",
+  "question": "Can a person demand their data in a machine-readable format and have it sent directly to another provider?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 20
+   }
+  ]
+ },
+ {
+  "id": "gdpr-en-06",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What must the contract between a controller and a processor stipulate?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 28
+   }
+  ]
+ },
+ {
+  "id": "gdpr-de-01",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Unter welchen Voraussetzungen ist die Verarbeitung personenbezogener Daten rechtmäßig?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 6
+   }
+  ]
+ },
+ {
+  "id": "gdpr-de-02",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wann muss eine Datenschutz-Folgenabschätzung durchgeführt werden?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 35
+   }
+  ]
+ },
+ {
+  "id": "gdpr-de-03",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Innerhalb welcher Frist muss der Verantwortliche auf einen Antrag der betroffenen Person antworten?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 12
+   }
+  ]
+ },
+ {
+  "id": "gdpr-de-04",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wann kann eine betroffene Person verlangen, dass ihre Daten gelöscht werden?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 17
+   }
+  ]
+ },
+ {
+  "id": "gdpr-de-05",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Dürfen personenbezogene Daten in ein Drittland übermittelt werden, für das kein Angemessenheitsbeschluss vorliegt?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 46
+   },
+   {
+    "act": "gdpr",
+    "article": 49
+   }
+  ]
+ },
+ {
+  "id": "gdpr-de-06",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Angaben muss das Verzeichnis von Verarbeitungstätigkeiten enthalten?",
+  "gold": [
+   {
+    "act": "gdpr",
+    "article": 30
+   }
+  ]
+ },
+ {
+  "id": "idd-en-01",
+  "lang": "en",
+  "type": "answerable",
+  "question": "How many hours of continuing professional training must insurance distributors complete each year?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 10
+   }
+  ]
+ },
+ {
+  "id": "idd-en-02",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What does an insurance intermediary have to tell the customer about the remuneration it receives?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 19
+   }
+  ]
+ },
+ {
+  "id": "idd-en-03",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What is the insurance product information document and what must it contain?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 20
+   }
+  ]
+ },
+ {
+  "id": "idd-en-04",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What must insurers that manufacture insurance products do regarding product approval and the target market?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 25
+   }
+  ]
+ },
+ {
+  "id": "idd-en-05",
+  "lang": "en",
+  "type": "answerable",
+  "question": "When must the suitability of an insurance-based investment product for the customer be assessed?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 30
+   }
+  ]
+ },
+ {
+  "id": "idd-en-06",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What is the maximum administrative fine for a legal person that breaches the conduct of business rules for insurance-based investment products?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 33
+   }
+  ]
+ },
+ {
+  "id": "idd-de-01",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Versicherungsvermittler in Nebentätigkeit sind vom Anwendungsbereich der Richtlinie ausgenommen?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 1
+   }
+  ]
+ },
+ {
+  "id": "idd-de-02",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wo müssen sich Versicherungsvermittler eintragen lassen, bevor sie tätig werden?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 3
+   }
+  ]
+ },
+ {
+  "id": "idd-de-03",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Regeln gelten, wenn ein Versicherungsprodukt zusammen mit einer anderen Dienstleistung als Paket angeboten wird?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 24
+   }
+  ]
+ },
+ {
+  "id": "idd-de-04",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Auskünfte muss ein Versicherungsvermittler dem Kunden vor Vertragsabschluss über sich selbst erteilen?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 18
+   }
+  ]
+ },
+ {
+  "id": "idd-de-05",
+  "lang": "de",
+  "type": "answerable",
+  "question": "In welcher Form, etwa auf Papier oder über eine Website, müssen die Auskünfte an den Kunden erteilt werden?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 23
+   }
+  ]
+ },
+ {
+  "id": "idd-de-06",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Verfahren zur außergerichtlichen Beilegung von Streitigkeiten zwischen Kunden und Versicherungsvertreibern müssen eingerichtet sein?",
+  "gold": [
+   {
+    "act": "idd",
+    "article": 15
+   }
+  ]
+ },
+ {
+  "id": "solvency2-en-01",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What confidence level and time horizon is the Solvency Capital Requirement calibrated to?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 101
+   }
+  ]
+ },
+ {
+  "id": "solvency2-en-02",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What is the absolute floor of the Minimum Capital Requirement for a life insurance undertaking?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 129
+   }
+  ]
+ },
+ {
+  "id": "solvency2-en-03",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What must the own risk and solvency assessment include?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 45
+   }
+  ]
+ },
+ {
+  "id": "solvency2-en-04",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What does the prudent person principle require of an insurer's investments?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 132
+   }
+  ]
+ },
+ {
+  "id": "solvency2-en-05",
+  "lang": "en",
+  "type": "answerable",
+  "question": "How long does an insurer have to restore compliance after it no longer meets the Solvency Capital Requirement?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 138
+   }
+  ]
+ },
+ {
+  "id": "solvency2-en-06",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What are the tasks of the actuarial function?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 48
+   }
+  ]
+ },
+ {
+  "id": "solvency2-de-01",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wie wird der Wert der versicherungstechnischen Rückstellungen berechnet?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 77
+   },
+   {
+    "act": "solvency2",
+    "article": 76
+   }
+  ]
+ },
+ {
+  "id": "solvency2-de-02",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Was müssen Versicherungsunternehmen beachten, wenn sie Funktionen oder Tätigkeiten auslagern?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 49
+   }
+  ]
+ },
+ {
+  "id": "solvency2-de-03",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Was muss der Bericht über Solvabilität und Finanzlage enthalten?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 51
+   }
+  ]
+ },
+ {
+  "id": "solvency2-de-04",
+  "lang": "de",
+  "type": "answerable",
+  "question": "In welche Klassen werden Eigenmittelbestandteile eingestuft und nach welchen Merkmalen?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 93
+   },
+   {
+    "act": "solvency2",
+    "article": 94
+   }
+  ]
+ },
+ {
+  "id": "solvency2-de-05",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Anforderungen an fachliche Qualifikation und persönliche Zuverlässigkeit gelten für Personen, die das Unternehmen leiten?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 42
+   }
+  ]
+ },
+ {
+  "id": "solvency2-de-06",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wie lange hat ein Versicherungsnehmer Zeit, von einem Lebensversicherungsvertrag zurückzutreten?",
+  "gold": [
+   {
+    "act": "solvency2",
+    "article": 186
+   }
+  ]
+ },
+ {
+  "id": "dora-en-01",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What must a contract with an ICT third-party service provider include?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 30
+   }
+  ]
+ },
+ {
+  "id": "dora-en-02",
+  "lang": "en",
+  "type": "answerable",
+  "question": "How often must threat-led penetration testing be carried out?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 26
+   }
+  ]
+ },
+ {
+  "id": "dora-en-03",
+  "lang": "en",
+  "type": "answerable",
+  "question": "Who bears ultimate responsibility for managing ICT risk in a financial entity?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 5
+   }
+  ]
+ },
+ {
+  "id": "dora-en-04",
+  "lang": "en",
+  "type": "answerable",
+  "question": "According to which criteria must ICT-related incidents be classified?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 18
+   }
+  ]
+ },
+ {
+  "id": "dora-en-05",
+  "lang": "en",
+  "type": "answerable",
+  "question": "Which financial entities may apply the simplified ICT risk management framework?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 16
+   }
+  ]
+ },
+ {
+  "id": "dora-en-06",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What periodic penalty payment can the Lead Overseer impose on a critical ICT third-party service provider?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 35
+   }
+  ]
+ },
+ {
+  "id": "dora-de-01",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wem müssen Finanzunternehmen schwerwiegende IKT-bezogene Vorfälle melden?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 19
+   }
+  ]
+ },
+ {
+  "id": "dora-de-02",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Anforderungen gelten für Datensicherung und Wiederherstellung?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 12
+   }
+  ]
+ },
+ {
+  "id": "dora-de-03",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Was muss das Informationsregister über vertragliche Vereinbarungen mit IKT-Drittdienstleistern enthalten?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 28
+   }
+  ]
+ },
+ {
+  "id": "dora-de-04",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Nach welchen Kriterien wird ein IKT-Drittdienstleister als kritisch eingestuft?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 31
+   }
+  ]
+ },
+ {
+  "id": "dora-de-05",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Dürfen Finanzunternehmen Informationen über Cyberbedrohungen untereinander austauschen?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 45
+   }
+  ]
+ },
+ {
+  "id": "dora-de-06",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Ab welchem Datum gilt die Verordnung über die digitale operationale Resilienz im Finanzsektor?",
+  "gold": [
+   {
+    "act": "dora",
+    "article": 64
+   }
+  ]
+ },
+ {
+  "id": "ai-act-en-01",
+  "lang": "en",
+  "type": "answerable",
+  "question": "Which uses of AI are banned outright?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 5
+   }
+  ]
+ },
+ {
+  "id": "ai-act-en-02",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What fines apply for using a prohibited AI system?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 99
+   }
+  ]
+ },
+ {
+  "id": "ai-act-en-03",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What human oversight measures are required for high-risk AI systems?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 14
+   }
+  ]
+ },
+ {
+  "id": "ai-act-en-04",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What do deployers of high-risk AI systems have to do?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 26
+   }
+  ]
+ },
+ {
+  "id": "ai-act-en-05",
+  "lang": "en",
+  "type": "answerable",
+  "question": "What transparency duties apply to chatbots and deep fakes?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 50
+   }
+  ]
+ },
+ {
+  "id": "ai-act-en-06",
+  "lang": "en",
+  "type": "answerable",
+  "question": "When is a general-purpose AI model considered to pose systemic risk?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 51
+   }
+  ]
+ },
+ {
+  "id": "ai-act-de-01",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wann gilt ein KI-System als Hochrisiko-KI-System?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 6
+   }
+  ]
+ },
+ {
+  "id": "ai-act-de-02",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Pflichten haben Anbieter von KI-Modellen mit allgemeinem Verwendungszweck?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 53
+   }
+  ]
+ },
+ {
+  "id": "ai-act-de-03",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Wer muss eine Grundrechte-Folgenabschätzung durchführen?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 27
+   }
+  ]
+ },
+ {
+  "id": "ai-act-de-04",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Was ist ein KI-Reallabor und wer richtet es ein?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 57
+   },
+   {
+    "act": "ai-act",
+    "article": 3
+   }
+  ]
+ },
+ {
+  "id": "ai-act-de-05",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Innerhalb welcher Frist müssen Anbieter von Hochrisiko-KI-Systemen schwerwiegende Vorfälle melden?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 73
+   }
+  ]
+ },
+ {
+  "id": "ai-act-de-06",
+  "lang": "de",
+  "type": "answerable",
+  "question": "Welche Anforderungen gelten für die Trainingsdaten von Hochrisiko-KI-Systemen?",
+  "gold": [
+   {
+    "act": "ai-act",
+    "article": 10
+   }
+  ]
+ },
+ {
+  "id": "oos-en-01",
+  "lang": "en",
+  "type": "out_of_scope",
+  "question": "What is the minimum Common Equity Tier 1 capital ratio for banks under the Capital Requirements Regulation?",
+  "gold": []
+ },
+ {
+  "id": "oos-en-02",
+  "lang": "en",
+  "type": "out_of_scope",
+  "question": "What rate of insurance premium tax applies in Germany?",
+  "gold": []
+ },
+ {
+  "id": "oos-en-03",
+  "lang": "en",
+  "type": "out_of_scope",
+  "question": "How many days of paid annual leave are workers entitled to under the Working Time Directive?",
+  "gold": []
+ },
+ {
+  "id": "oos-en-04",
+  "lang": "en",
+  "type": "out_of_scope",
+  "question": "What does MiFID II require regarding the unbundling of research payments?",
+  "gold": []
+ },
+ {
+  "id": "oos-de-01",
+  "lang": "de",
+  "type": "out_of_scope",
+  "question": "Welche Kündigungsfristen gelten nach dem deutschen Versicherungsvertragsgesetz?",
+  "gold": []
+ },
+ {
+  "id": "oos-de-02",
+  "lang": "de",
+  "type": "out_of_scope",
+  "question": "Wie hoch ist der Höchstrechnungszins für Lebensversicherungen in Deutschland?",
+  "gold": []
+ },
+ {
+  "id": "oos-de-03",
+  "lang": "de",
+  "type": "out_of_scope",
+  "question": "Welche Meldepflichten haben Unternehmen nach der NIS-2-Richtlinie?",
+  "gold": []
+ },
+ {
+  "id": "oos-de-04",
+  "lang": "de",
+  "type": "out_of_scope",
+  "question": "Welche Vorgaben macht die Zahlungsdiensterichtlinie PSD2 zur starken Kundenauthentifizierung?",
+  "gold": []
+ }
+]
