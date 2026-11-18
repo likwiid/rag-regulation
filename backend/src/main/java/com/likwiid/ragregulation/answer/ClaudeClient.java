@@ -10,7 +10,10 @@ import org.springframework.stereotype.Component;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-/** Thin wrapper around the Anthropic SDK: one request in, one schema-validated object out. */
+/**
+ * One request in, one schema-validated object out. By default this goes through the Anthropic SDK.
+ * With {@code rag.generation-backend=claude-cli} the same request is handed to {@link ClaudeCli}.
+ */
 @Component
 public class ClaudeClient {
 
@@ -29,6 +32,7 @@ public class ClaudeClient {
     private final AppProperties properties;
     private final AtomicLong inputTokens = new AtomicLong();
     private final AtomicLong outputTokens = new AtomicLong();
+    private final ClaudeCli cli = new ClaudeCli();
     private AnthropicClient client;
 
     public ClaudeClient(AppProperties properties) {
@@ -54,6 +58,12 @@ public class ClaudeClient {
      * is derived from the class and enforced by the API (structured outputs), so no parsing of free text.
      */
     public <T> Result<T> ask(String model, String system, String user, Class<T> type) {
+        if (properties.useClaudeCli()) {
+            Result<T> result = cli.ask(model, system, user, type);
+            inputTokens.addAndGet(result.inputTokens());
+            outputTokens.addAndGet(result.outputTokens());
+            return result;
+        }
         MessageCreateParams.Builder builder = MessageCreateParams.builder()
                 .model(model)
                 .maxTokens(16000L)

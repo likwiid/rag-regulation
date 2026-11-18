@@ -8,6 +8,7 @@ public record AppProperties(
         String evalDir,
         String modelsDir,
         String anthropicApiKey,
+        String generationBackend,
         String answerModel,
         String judgeModel,
         int topK,
@@ -19,7 +20,12 @@ public record AppProperties(
     public record Reranker(String modelUrl, String tokenizerUrl, int maxLength) {
     }
 
+    /** True when answers come from a local Claude Code login instead of the API. */
+    public boolean useClaudeCli() {
+        return "claude-cli".equalsIgnoreCase(generationBackend);
+    }
+
     public boolean generationEnabled() {
-        return anthropicApiKey != null && !anthropicApiKey.isBlank();
+        return useClaudeCli() || (anthropicApiKey != null && !anthropicApiKey.isBlank());
     }
 }

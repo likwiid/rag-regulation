@@ -91,7 +91,8 @@ public class EvalRunner {
                 .map(o -> Integer.parseInt(o.substring("--limit=".length()))).orElse(Integer.MAX_VALUE);
         if (!retrievalOnly && !answers.enabled()) {
             throw new IllegalStateException(
-                    "ANTHROPIC_API_KEY is not set. Set it, or pass --retrieval-only to score retrieval alone.");
+                    "ANTHROPIC_API_KEY is not set. Set it, set GENERATION_BACKEND=claude-cli, or pass --retrieval-only "
+                            + "to score retrieval alone.");
         }
 
         Path dir = Path.of(properties.evalDir());
