@@ -27,6 +27,8 @@ services:
       CORPUS_DIR: /data/corpus
       EVAL_DIR: /data/eval
       MODELS_DIR: /models
+      # Keep the native libraries the tokenizer library fetches on first use, so they download once.
+      DJL_CACHE_DIR: /models/djl
       # Read from the shell or from a local .env file. Never commit the key.
       ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
       ANSWER_MODEL: ${ANSWER_MODEL:-claude-opus-5-5}
