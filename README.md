@@ -2,6 +2,8 @@
 
 Question answering over EU financial and data regulation, in English and German, with answers that cite the exact act, article and paragraph they rely on and that decline when the retrieved text does not cover the question.
 
+Built by [Likwiid](https://likwiid.com/). Case study with screenshots and results: https://likwiid.com/work/rag-regulation/
+
 The corpus is five acts from EUR-Lex. The backend is Java with Spring Boot, Spring AI and PostgreSQL with pgvector. Embeddings and reranking run locally with open models. Answers are generated with the Claude API. A small React app lets you ask a question, read the answer and click a citation to see the source passage.
 
 ## What is in the corpus
