@@ -197,4 +197,4 @@ The tests parse the real corpus files and check article counts, paragraph struct
 
 ## Licences
 
-Code: no licence chosen yet, all rights reserved until one is added. Corpus: EUR-Lex, © European Union, reuse as described above. Models: multilingual-e5-small (MIT), mmarco-mMiniLMv2-L12-H384-v1 (Apache 2.0); both are downloaded at run time and not redistributed here.
+Code: MIT, see LICENSE. Corpus: EUR-Lex, © European Union, reuse as described above. Models: multilingual-e5-small (MIT), mmarco-mMiniLMv2-L12-H384-v1 (Apache 2.0); both are downloaded at run time and not redistributed here.
